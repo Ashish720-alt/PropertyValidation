@@ -1,0 +1,71 @@
+[ { "obj": 1
+  , "gen": 0
+  , "value":
+      { "$dict":
+        { "Count": 1
+        , "Kids":
+            [ { "$ref": { "obj": 2, "gen": 0 } }
+            ]
+        , "Type": { "$name": "Pages" }
+        }
+      }
+  }
+, { "obj": 2
+  , "gen": 0
+  , "value":
+      { "$dict":
+        { "Contents":
+            [ { "$ref": { "obj": 4, "gen": 0 } }
+            ]
+        , "MediaBox":
+            [ 0
+            , 0
+            , 612
+            , 792
+            ]
+        , "Parent": { "$ref": { "obj": 1, "gen": 0 } }
+        , "Resources": { "$ref": { "obj": 3, "gen": 0 } }
+        , "Type": { "$name": "Page" }
+        }
+      }
+  }
+, { "obj": 3
+  , "gen": 0
+  , "value":
+      { "$dict":
+        { "Font":
+            { "$dict":
+              { "F0":
+                  { "$dict":
+                    { "BaseFont": { "$name": "Times-Italic" }
+                    , "Subtype": { "$name": "Type1" }
+                    , "Type": { "$name": "Font" }
+                    }
+                  }
+              }
+            }
+        }
+      }
+  }
+, { "obj": 4
+  , "gen": 0
+  , "stream":
+      { "header":
+          { "$dict":
+            { "Length": 68
+            }
+          }
+      , "body":
+          "MS4gMC4gMC4gMS4gNTAuIDcwMC4gY20gCkJUCiAgL0YwIDM2LiBUZiAKICAoSGVsbG8sIFdvcmxkISkgVGogCkVUIAo="
+      }
+  }
+, { "obj": 5
+  , "gen": 0
+  , "value":
+      { "$dict":
+        { "Pages": { "$ref": { "obj": 1, "gen": 0 } }
+        , "Type": { "$name": "Catalog" }
+        }
+      }
+  }
+]

@@ -1,0 +1,20 @@
+Graph:
+
+Source is d satisfying  d.<"Name"> = "p"  .
+
+forall d in Graph, d0 is Child(d) where  d0.<"Name"> = "oollala".
+
+
+Semantic Definitions:
+
+Source is d satisfying d.<"Name"> =  "p" .
+
+Semantic Conditions:
+
+forall d in Source,
+forall d1 in Source,
+not( d in d1.<"Kids">).
+
+
+
+

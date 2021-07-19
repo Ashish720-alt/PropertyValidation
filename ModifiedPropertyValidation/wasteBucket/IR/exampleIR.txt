@@ -1,0 +1,38 @@
+7 0
+%
+1 2
+3 4
+5 6
+
+
+
+
+%
+
+
+
+4
+
+
+
+%
+name:idiot
+id:278
+;
+name:idiot1
+;
+name:idiot2
+;
+name:idiot3
+;
+name:idiot4
+DOB:23
+;
+name:idiot5
+;
+name:idiot6
+;
+%
+
+
+

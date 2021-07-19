@@ -1,0 +1,34 @@
+Tree:
+
+Root is unique d satisfying  d.<"Name"> = "html"  .
+
+forall d in Tree, d0 is Child(d) where  d0.<"Id"> in d.<"Kids">  and  d0.<"Name"> !=  "html" .
+
+
+Semantic Definitions:
+
+TD is d satisfying d.<"Name"> = "td" .
+
+TR is d satisfying d.<"Name"> = "tr" .
+
+TH is d satisfying d.<"Name"> = "th" .
+
+Semantic Conditions:
+
+forall d in TD,
+exists d1 in TR,
+d in d1.<"Kids">. 
+
+
+forall d in TD,
+forall d1 in TR,
+not( d1 in d.<"Kids"> ) .
+
+forall d in TH,
+exists d1 in TR,
+d in d1.<"Kids"> .
+
+
+forall d in TH,
+forall d1 in TR,
+not(  d1 in d.<"Kids"> ) .

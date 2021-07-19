@@ -1,0 +1,87 @@
+Up to date
+[ { obj: 40
+  , gen: 0
+  , value:
+      { $dict: 
+        { ByteRange:
+            [ 0
+            , 9454
+            , 14122
+            , 6378
+            ]
+        , Contents:
+            "0"
+        , Filter: { $name: "Adobe.PPKLite" }
+        , M: "D:20210422001840-04'00'"
+        , Name: "Ashish Kumar"
+        , Prop_Build:
+            { $dict:
+              { App:
+                  { $dict:
+                    { Name: { $name: "Adobe Acrobat Pro DC (32-bit)" }
+                    , OS:
+                        [ { $name: "Win" }
+                        ]
+                    , R: 1376512
+                    , REx: "2021.001.20145"
+                    , TrustedMode: true
+                    }
+                  }
+              , Filter:
+                  { $dict:
+                    { Date: "Mar  6 2021 04:32:58"
+                    , Name: { $name: "Adobe.PPKLite" }
+                    , R: 131104
+                    , V: 2
+                    }
+                  }
+              , PubSec:
+                  { $dict:
+                    { Date: "Mar  6 2021 04:32:58"
+                    , NonEFontNoWarn: true
+                    , R: 131105
+                    }
+                  }
+              }
+            }
+        , Reference:
+            [ { $dict:
+                { Data: { $ref: { obj: 20, gen: 0 } }
+                , DigestLocation:
+                    [ 14544
+                    , 34
+                    ]
+                , DigestMethod: { $name: "MD5" }
+                , DigestValue:
+                    "\150_\129\217\207\248_\232\DLE\213v\223X\151\250\RS"
+                , TransformMethod: { $name: "DocMDP" }
+                , TransformParams:
+                    { $dict:
+                      { P: 3
+                      , Type: { $name: "TransformParams" }
+                      , V: { $name: "1.2" }
+                      }
+                    }
+                , Type: { $name: "SigRef" }
+                }
+              }
+            , { $dict:
+                { Data: { $ref: { obj: 20, gen: 0 } }
+                , DigestLocation:
+                    [ 14747
+                    , 34
+                    ]
+                , DigestMethod: { $name: "MD5" }
+                , DigestValue: "\243U(\209\183\160U_\223\187\213 \219\158\179\NUL"
+                , TransformMethod: { $name: "FieldMDP" }
+                , TransformParams: { $ref: { obj: 66, gen: 0 } }
+                , Type: { $name: "SigRef" }
+                }
+              }
+            ]
+        , SubFilter: { $name: "adbe.pkcs7.detached" }
+        , Type: { $name: "Sig" }
+        }
+      }
+  }
+]

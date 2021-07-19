@@ -1,0 +1,24 @@
+Tree:
+
+Root is unique d satisfying ins ( d.<"Name"> , [ "html" ] ).
+
+forall d in Tree, d0 is Child(d) where and( inn(d0.<"Id">, d.<"Kids"> ) , not(ins (d0.<"Name"> , [ "html" ] ) )   ).
+
+
+Graph Property:
+
+TD is d satisfying eqs(d.<"Name"> , "TD" ).
+
+TR is d satisfying eqs(d.<"Name"> , "TR" ).
+
+TH is d satisfying eqs(d.<"Name"> , "TH" ).
+
+Specification Conditions:
+
+forall d in TD, inn( TD.<"Id">, TR.<"Kids"> ) .
+forall d in TH, inn( TH.<"Id">, TR.<"Kids"> ) .
+
+forall d in TR, not( inn( TR.<"Id">, TD.<"Kids"> )).
+forall d in TR, not( inn( TR.<"Id">, TH.<"Kids"> )).
+
+

@@ -1,0 +1,24 @@
+Tree:
+
+Root is unique d satisfying  d.<"Name"> = "html"  .
+
+forall d in Tree, d0 is Child(d) where  d0.<"Id"> in d.<"Kids">  and  d0.<"Name"> !=  "html" .
+
+
+Graph Property:
+
+Head is d satisfying d.<"Name"> = "head" .
+
+Ref is (d1, d2) satisfying d1.<"href"> = REFSTRING(d2.<"id">)  
+where d1 in [ Tree ]
+where d2 in [ Tree ] .
+
+Specification Conditions:
+
+forall d1 in Head,
+forall (d2, d3) in Ref,
+forall (d4, d5) in Ref,
+(d3 = d5  and   d3.<"Id"> in PATH(d1.<"Id">, Tree)) implies  d2 = d4  .
+
+
+

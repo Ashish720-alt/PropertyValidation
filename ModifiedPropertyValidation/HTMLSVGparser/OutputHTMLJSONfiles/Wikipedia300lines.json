@@ -1,0 +1,3893 @@
+[
+  {
+	"Id": 1 ,
+	"Name": "html" ,
+	"Kids": [ 2, 27 ] ,
+	"class": " client-nojs ", 
+	"lang": " en ", 
+	"dir": " ltr ", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 2 ,
+	"Name": "head" ,
+	"Kids": [ 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26 ] ,
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 3 ,
+	"Name": "meta" ,
+	"Kids": [ ] ,
+	"charset": " UTF-8 ", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 4 ,
+	"Name": "title" ,
+	"Kids": [ ] ,
+	"Content": "Rezon the Syrian - Wikipedia"
+  }
+  ,
+  {
+	"Id": 5 ,
+	"Name": "script" ,
+	"Kids": [ ] ,
+	"Content": "document.documentElement.className=-client-js-;RLCONF={-wgBreakFrames-:!1,-wgSeparatorTransformTable-:[--,--],-wgDigitTransformTable-:[--,--],-wgDefaultDateFormat-:-dmy-,-wgMonthNames-:[--,-January-,-February-,-March-,-April-,-May-,-June-,-July-,-August-,-September-,-October-,-November-,-December-],-wgRequestId-:-YAQreApAIC4AAFjsnGQAAACW-,-wgCSPNonce-:!1,-wgCanonicalNamespace-:--,-wgCanonicalSpecialPageName-:!1,-wgNamespaceNumber-:0,-wgPageName-:-Rezon_the_Syrian-,-wgTitle-:-Rezon the Syrian-,-wgCurRevisionId-:981612649,-wgRevisionId-:981612649,-wgArticleId-:29460027,-wgIsArticle-:!0,-wgIsRedirect-:!1,-wgAction-:-view-,-wgUserName-:null,-wgUserGroups-:[-*-],-wgCategories-:[-Harv and Sfn no-target errors-,-Articles with short description-,-Short description matches Wikidata-,-10th-century BC Kings of Syria-,-Kings of Syria-,-Hebrew Bible people-,-Solomon-,-Books of Kings-],-wgPageContentLanguage-:-en-,-wgPageContentModel-:-wikitext-,-wgRelevantPageName-:-Rezon_the_Syrian-,-wgRelevantArticleId-:29460027,-wgIsProbablyEditable-:!0,-wgRelevantPageIsProbablyEditable-:!0,-wgRestrictionEdit-:[],-wgRestrictionMove-:[],-wgMediaViewerOnClick-:!0,-wgMediaViewerEnabledByDefault-:!0,-wgPopupsReferencePreviews-:!1,-wgPopupsConflictsWithNavPopupGadget-:!1,-wgPopupsConflictsWithRefTooltipsGadget-:!0,-wgVisualEditor-:{-pageLanguageCode-:-en-,-pageLanguageDir-:-ltr-,-pageVariantFallbacks-:-en-},-wgMFDisplayWikibaseDescriptions-:{-search-:!0,-nearby-:!0,-watchlist-:!0,-tagline-:!1},-wgWMESchemaEditAttemptStepOversample-:!1,-wgULSCurrentAutonym-:-English-,-wgNoticeProject-:-wikipedia-,-wgCentralAuthMobileDomain-:!1,-wgEditSubmitButtonLabelPublish-:!0,-wgULSPosition-:-interlanguage-,-wgWikibaseItemId-:-Q13589419-};RLSTATE={-ext.globalCssJs.user.styles-:-ready-,-site.styles-:-ready-,-noscript-:-ready-,-user.styles-:-ready-,-ext.globalCssJs.user-:-ready-,-user-:-ready-,-user.options-:-loading-,-ext.cite.styles-:-ready-,-skins.vector.styles.legacy-:-ready-,-ext.visualEditor.desktopArticleTarget.noscript-:-ready-,-ext.uls.interlanguage-:-ready-,-ext.wikimediaBadges-:-ready-,-wikibase.client.init-:-ready-};RLPAGEMODULES=[-ext.cite.ux-enhancements-,-ext.scribunto.logs-,-site-,-mediawiki.page.ready-,-skins.vector.legacy.js-,-ext.gadget.ReferenceTooltips-,-ext.gadget.charinsert-,-ext.gadget.extra-toolbar-buttons-,-ext.gadget.refToolbar-,-ext.gadget.switcher-,-ext.centralauth.centralautologin-,-mmv.head-,-mmv.bootstrap.autostart-,-ext.popups-,-ext.visualEditor.desktopArticleTarget.init-,-ext.visualEditor.targetLoader-,-ext.eventLogging-,-ext.wikimediaEvents-,-ext.navigationTiming-,-ext.uls.compactlinks-,-ext.uls.interface-,-ext.cx.eventlogging.campaigns-,-ext.centralNotice.geoIP-,-ext.centralNotice.startUp-];"
+  }
+  ,
+  {
+	"Id": 6 ,
+	"Name": "script" ,
+	"Kids": [ ] ,
+	"Content": "(RLQ=window.RLQ||[]).push(function(){mw.loader.implement(-user.options@1hzgi-,function($,jQuery,require,module){-*@nomin*-mw.user.tokens.set({-patrolToken-:-+---,-watchToken-:-+---,-csrfToken-:-+---});});});"
+  }
+  ,
+  {
+	"Id": 7 ,
+	"Name": "link" ,
+	"Kids": [ ] ,
+	"rel": " stylesheet ", 
+	"href": "w load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 8 ,
+	"Name": "script" ,
+	"Kids": [ ] ,
+	"async": "", 
+	"src": "  w load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector ", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 9 ,
+	"Name": "meta" ,
+	"Kids": [ ] ,
+	"name": " ResourceLoaderDynamicStyles ", 
+	"content": "", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 10 ,
+	"Name": "link" ,
+	"Kids": [ ] ,
+	"rel": " stylesheet ", 
+	"href": "w load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 11 ,
+	"Name": "meta" ,
+	"Kids": [ ] ,
+	"name": " generator ", 
+	"content": " MediaWiki", 
+	"1.36.0-wmf.26-": "1.36.0-wmf.26 ", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 12 ,
+	"Name": "meta" ,
+	"Kids": [ ] ,
+	"name": " referrer ", 
+	"content": " origin ", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 13 ,
+	"Name": "meta" ,
+	"Kids": [ ] ,
+	"name": " referrer ", 
+	"content": " origin-when-crossorigin ", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 14 ,
+	"Name": "meta" ,
+	"Kids": [ ] ,
+	"name": " referrer ", 
+	"content": " origin-when-cross-origin ", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 15 ,
+	"Name": "link" ,
+	"Kids": [ ] ,
+	"rel": " preconnect ", 
+	"href": "upload.wikimedia.org", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 16 ,
+	"Name": "link" ,
+	"Kids": [ ] ,
+	"rel": " alternate ", 
+	"media": " only", 
+	"screen": "screen", 
+	"and": "and", 
+	"(max-width:": "(max-width:", 
+	"720px)-": "720px) ", 
+	"href": "en.m.wikipedia.org wiki Rezon_the_Syrian", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 17 ,
+	"Name": "link" ,
+	"Kids": [ ] ,
+	"rel": " alternate ", 
+	"type": " application x-wiki ", 
+	"title": " Edit", 
+	"this": "this", 
+	"page-": "page ", 
+	"href": "w index.php?title=Rezon_the_Syrian&amp;action=edit", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 18 ,
+	"Name": "link" ,
+	"Kids": [ ] ,
+	"rel": " edit ", 
+	"title": " Edit", 
+	"this": "this", 
+	"page-": "page ", 
+	"href": "w index.php?title=Rezon_the_Syrian&amp;action=edit", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 19 ,
+	"Name": "link" ,
+	"Kids": [ ] ,
+	"rel": " apple-touch-icon ", 
+	"href": "static apple-touch wikipedia.png", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 20 ,
+	"Name": "link" ,
+	"Kids": [ ] ,
+	"rel": " shortcut", 
+	"icon-": "icon ", 
+	"href": "static favicon wikipedia.ico", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 21 ,
+	"Name": "link" ,
+	"Kids": [ ] ,
+	"rel": " search ", 
+	"type": " application opensearchdescription+xml ", 
+	"href": "w opensearch_desc.php", 
+	"title": " Wikipedia", 
+	"(en)-": "(en) ", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 22 ,
+	"Name": "link" ,
+	"Kids": [ ] ,
+	"rel": " EditURI ", 
+	"type": " application rsd+xml ", 
+	"href": "en.wikipedia.org w api.php?action=rsd", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 23 ,
+	"Name": "link" ,
+	"Kids": [ ] ,
+	"rel": " license ", 
+	"href": "creativecommons.org licenses by-sa 3.0", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 24 ,
+	"Name": "link" ,
+	"Kids": [ ] ,
+	"rel": " canonical ", 
+	"href": "https:  en.wikipedia.org wiki Rezon_the_Syrian", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 25 ,
+	"Name": "link" ,
+	"Kids": [ ] ,
+	"rel": " dns-prefetch ", 
+	"href": "login.wikimedia.org", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 26 ,
+	"Name": "link" ,
+	"Kids": [ ] ,
+	"rel": " dns-prefetch ", 
+	"href": "meta.wikimedia.org", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 27 ,
+	"Name": "body" ,
+	"Kids": [ 28, 29, 30, 221, 223, 370, 405, 406, 407 ] ,
+	"class": " mediawiki", 
+	"ltr": "ltr", 
+	"sitedir-ltr": "sitedir-ltr", 
+	"mw-hide-empty-elt": "mw-hide-empty-elt", 
+	"ns-0": "ns-0", 
+	"ns-subject": "ns-subject", 
+	"mw-editable": "mw-editable", 
+	"page-Rezon_the_Syrian": "page-Rezon_the_Syrian", 
+	"rootpage-Rezon_the_Syrian": "rootpage-Rezon_the_Syrian", 
+	"skin-vector": "skin-vector", 
+	"action-view": "action-view", 
+	"skin-vector-legacy-": "skin-vector-legacy ", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 28 ,
+	"Name": "div" ,
+	"Kids": [ ] ,
+	"id": "mw-page-base", 
+	"class": " noprint ", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 29 ,
+	"Name": "div" ,
+	"Kids": [ ] ,
+	"id": "mw-head-base", 
+	"class": " noprint ", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 30 ,
+	"Name": "div" ,
+	"Kids": [ 31, 32, 33, 34, 35 ] ,
+	"id": "content", 
+	"class": " mw-body ", 
+	"role": " main ", 
+	"Content": "					"
+  }
+  ,
+  {
+	"Id": 31 ,
+	"Name": "a" ,
+	"Kids": [ ] ,
+	"id": "top", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 32 ,
+	"Name": "div" ,
+	"Kids": [ ] ,
+	"id": "siteNotice", 
+	"class": " mw-body-content ", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 33 ,
+	"Name": "div" ,
+	"Kids": [ ] ,
+	"class": " mw-indicators", 
+	"mw-body-content-": "mw-body-content ", 
+	"Content": "	"
+  }
+  ,
+  {
+	"Id": 34 ,
+	"Name": "h1" ,
+	"Kids": [ ] ,
+	"id": "firstHeading", 
+	"class": " firstHeading ", 
+	"lang": " en ", 
+	"Content": "Rezon the Syrian"
+  }
+  ,
+  {
+	"Id": 35 ,
+	"Name": "div" ,
+	"Kids": [ 36, 37, 38, 39, 40, 41, 42, 199 ] ,
+	"id": "bodyContent", 
+	"class": " mw-body-content ", 
+	"Content": "																			"
+  }
+  ,
+  {
+	"Id": 36 ,
+	"Name": "div" ,
+	"Kids": [ ] ,
+	"id": "siteSub", 
+	"class": " noprint ", 
+	"Content": "From Wikipedia, the free encyclopedia"
+  }
+  ,
+  {
+	"Id": 37 ,
+	"Name": "div" ,
+	"Kids": [ ] ,
+	"id": "contentSub", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 38 ,
+	"Name": "div" ,
+	"Kids": [ ] ,
+	"id": "contentSub2", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 39 ,
+	"Name": "div" ,
+	"Kids": [ ] ,
+	"id": "jump-to-nav", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 40 ,
+	"Name": "a" ,
+	"Kids": [ ] ,
+	"class": " mw-jump-link ", 
+	"href": "#mw-head", 
+	"Content": "Jump to navigation"
+  }
+  ,
+  {
+	"Id": 41 ,
+	"Name": "a" ,
+	"Kids": [ ] ,
+	"class": " mw-jump-link ", 
+	"href": "#searchInput", 
+	"Content": "Jump to search"
+  }
+  ,
+  {
+	"Id": 42 ,
+	"Name": "div" ,
+	"Kids": [ 43, 195, 197 ] ,
+	"id": "mw-content-text", 
+	"lang": " en ", 
+	"dir": " ltr ", 
+	"class": " mw-content-ltr ", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 43 ,
+	"Name": "div" ,
+	"Kids": [ 44, 45, 70, 84, 90, 105, 111, 112, 120, 127, 133 ] ,
+	"class": " mw-parser-output ", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 44 ,
+	"Name": "div" ,
+	"Kids": [ ] ,
+	"class": " shortdescription", 
+	"nomobile": "nomobile", 
+	"noexcerpt": "noexcerpt", 
+	"noprint": "noprint", 
+	"searchaux-": "searchaux ", 
+	"style": " display:none ", 
+	"Content": "Enemy of King Solomon mentioned in 1 Kings"
+  }
+  ,
+  {
+	"Id": 45 ,
+	"Name": "table" ,
+	"Kids": [ 46 ] ,
+	"class": " infobox", 
+	"vcard-": "vcard ", 
+	"style": " width:22em ", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 46 ,
+	"Name": "tbody" ,
+	"Kids": [ 47, 49, 53, 56, 59, 64, 67 ] ,
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 47 ,
+	"Name": "tr" ,
+	"Kids": [ 48 ] ,
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 48 ,
+	"Name": "th" ,
+	"Kids": [ ] ,
+	"colspan": " 2 ", 
+	"class": " fn ", 
+	"style": " text-align:center;font-size:125%;font-weight:bold;background-color:", 
+	"#cbe;": "#cbe;", 
+	"font-size:": "font-size:", 
+	"125%-": "125% ", 
+	"Content": "Rezon the Syrian"
+  }
+  ,
+  {
+	"Id": 49 ,
+	"Name": "tr" ,
+	"Kids": [ 50 ] ,
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 50 ,
+	"Name": "th" ,
+	"Kids": [ 51, 52 ] ,
+	"colspan": " 2 ", 
+	"style": " text-align:center;background-color:", 
+	"#e4dcf6;line-height:normal;padding:0.2em": "#e4dcf6;line-height:normal;padding:0.2em", 
+	"0.2em-": "0.2em ", 
+	"Content": " of "
+  }
+  ,
+  {
+	"Id": 51 ,
+	"Name": "a" ,
+	"Kids": [ ] ,
+	"href": "wiki King", 
+	"title": " King ", 
+	"Content": "King"
+  }
+  ,
+  {
+	"Id": 52 ,
+	"Name": "a" ,
+	"Kids": [ ] ,
+	"href": "wiki Aram_Damascus", 
+	"class": " mw-redirect ", 
+	"title": " Aram", 
+	"Damascus-": "Damascus ", 
+	"Content": "Aram Damascus"
+  }
+  ,
+  {
+	"Id": 53 ,
+	"Name": "tr" ,
+	"Kids": [ 54, 55 ] ,
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 54 ,
+	"Name": "th" ,
+	"Kids": [ ] ,
+	"scope": " row ", 
+	"Content": "Reign"
+  }
+  ,
+  {
+	"Id": 55 ,
+	"Name": "td" ,
+	"Kids": [ ] ,
+	"Content": "10th century BC"
+  }
+  ,
+  {
+	"Id": 56 ,
+	"Name": "tr" ,
+	"Kids": [ 57, 58 ] ,
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 57 ,
+	"Name": "th" ,
+	"Kids": [ ] ,
+	"scope": " row ", 
+	"Content": "Predecessor"
+  }
+  ,
+  {
+	"Id": 58 ,
+	"Name": "td" ,
+	"Kids": [ ] ,
+	"Content": "None"
+  }
+  ,
+  {
+	"Id": 59 ,
+	"Name": "tr" ,
+	"Kids": [ 60, 61 ] ,
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 60 ,
+	"Name": "th" ,
+	"Kids": [ ] ,
+	"scope": " row ", 
+	"Content": "Successor"
+  }
+  ,
+  {
+	"Id": 61 ,
+	"Name": "td" ,
+	"Kids": [ 62, 63 ] ,
+	"Content": " or "
+  }
+  ,
+  {
+	"Id": 62 ,
+	"Name": "a" ,
+	"Kids": [ ] ,
+	"href": "wiki Hezion", 
+	"title": " Hezion ", 
+	"Content": "Hezion"
+  }
+  ,
+  {
+	"Id": 63 ,
+	"Name": "a" ,
+	"Kids": [ ] ,
+	"href": "wiki Ben-Hadad_I", 
+	"title": " Ben-Hadad", 
+	"I-": "I ", 
+	"Content": "Ben-Hadad I"
+  }
+  ,
+  {
+	"Id": 64 ,
+	"Name": "tr" ,
+	"Kids": [ 65 ] ,
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 65 ,
+	"Name": "th" ,
+	"Kids": [ 66 ] ,
+	"colspan": " 2 ", 
+	"style": " text-align:center;background-color:", 
+	"#e4dcf6;line-height:normal;padding:0.2em": "#e4dcf6;line-height:normal;padding:0.2em", 
+	"0.2em-": "0.2em ", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 66 ,
+	"Name": "div" ,
+	"Kids": [ ] ,
+	"style": " height:", 
+	"4px;": "4px;", 
+	"width:100%;-": "width:100%; ", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 67 ,
+	"Name": "tr" ,
+	"Kids": [ 68, 69 ] ,
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 68 ,
+	"Name": "th" ,
+	"Kids": [ ] ,
+	"scope": " row ", 
+	"Content": "Father"
+  }
+  ,
+  {
+	"Id": 69 ,
+	"Name": "td" ,
+	"Kids": [ ] ,
+	"Content": "Eliada"
+  }
+  ,
+  {
+	"Id": 70 ,
+	"Name": "p" ,
+	"Kids": [ 71, 72, 74, 76, 77, 78, 79, 81, 82 ] ,
+	"Content": ", also named -Ezron-, was an enemy of  mentioned in . Some 19th-century scholars considered Rezon to be the throne name of King . He is known only from the ."
+  }
+  ,
+  {
+	"Id": 71 ,
+	"Name": "b" ,
+	"Kids": [ ] ,
+	"Content": "Rezon the Syrian"
+  }
+  ,
+  {
+	"Id": 72 ,
+	"Name": "sup" ,
+	"Kids": [ 73 ] ,
+	"id": "cite_ref-FOOTNOTELipiński2000&#91;httpsbooksgooglecombooksidrrMKKtiBBI4CpgPA369_369&#93;_1-0", 
+	"class": " reference ", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 73 ,
+	"Name": "a" ,
+	"Kids": [ ] ,
+	"href": "#cite_note-FOOTNOTELipiński2000[httpsbooksgooglecombooksidrrMKKtiBBI4CpgPA369_369]-1", 
+	"Content": "&#91;1&#93;"
+  }
+  ,
+  {
+	"Id": 74 ,
+	"Name": "sup" ,
+	"Kids": [ 75 ] ,
+	"id": "cite_ref-FOOTNOTEGalvin2011&#91;httpsbooksgooglecombooksidwWnIkMx8dpQCpgPA90_90&#93;_2-0", 
+	"class": " reference ", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 75 ,
+	"Name": "a" ,
+	"Kids": [ ] ,
+	"href": "#cite_note-FOOTNOTEGalvin2011[httpsbooksgooglecombooksidwWnIkMx8dpQCpgPA90_90]-2", 
+	"Content": "&#91;2&#93;"
+  }
+  ,
+  {
+	"Id": 76 ,
+	"Name": "a" ,
+	"Kids": [ ] ,
+	"href": "wiki King_Solomon", 
+	"class": " mw-redirect ", 
+	"title": " King", 
+	"Solomon-": "Solomon ", 
+	"Content": "King Solomon"
+  }
+  ,
+  {
+	"Id": 77 ,
+	"Name": "a" ,
+	"Kids": [ ] ,
+	"href": "wiki 1_Kings", 
+	"class": " mw-redirect ", 
+	"title": " 1", 
+	"Kings-": "Kings ", 
+	"Content": "1 Kings"
+  }
+  ,
+  {
+	"Id": 78 ,
+	"Name": "a" ,
+	"Kids": [ ] ,
+	"href": "wiki Hezion", 
+	"title": " Hezion ", 
+	"Content": "Hezion"
+  }
+  ,
+  {
+	"Id": 79 ,
+	"Name": "sup" ,
+	"Kids": [ 80 ] ,
+	"id": "cite_ref-booksonly_3-0", 
+	"class": " reference ", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 80 ,
+	"Name": "a" ,
+	"Kids": [ ] ,
+	"href": "#cite_note-booksonly-3", 
+	"Content": "&#91;3&#93;"
+  }
+  ,
+  {
+	"Id": 81 ,
+	"Name": "a" ,
+	"Kids": [ ] ,
+	"href": "wiki Old_Testament", 
+	"title": " Old", 
+	"Testament-": "Testament ", 
+	"Content": "Old Testament"
+  }
+  ,
+  {
+	"Id": 82 ,
+	"Name": "sup" ,
+	"Kids": [ 83 ] ,
+	"id": "cite_ref-4", 
+	"class": " reference ", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 83 ,
+	"Name": "a" ,
+	"Kids": [ ] ,
+	"href": "#cite_note-4", 
+	"Content": "&#91;4&#93;"
+  }
+  ,
+  {
+	"Id": 84 ,
+	"Name": "h2" ,
+	"Kids": [ 85, 86 ] ,
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 85 ,
+	"Name": "span" ,
+	"Kids": [ ] ,
+	"class": " mw-headline ", 
+	"id": "Biography", 
+	"Content": "Biography"
+  }
+  ,
+  {
+	"Id": 86 ,
+	"Name": "span" ,
+	"Kids": [ 87, 88, 89 ] ,
+	"class": " mw-editsection ", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 87 ,
+	"Name": "span" ,
+	"Kids": [ ] ,
+	"class": " mw-editsection-bracket ", 
+	"Content": "["
+  }
+  ,
+  {
+	"Id": 88 ,
+	"Name": "a" ,
+	"Kids": [ ] ,
+	"href": "w index.php?title=Rezon_the_Syrian&amp;action=edit&amp;section=1", 
+	"title": " Edit", 
+	"section:": "section:", 
+	"Biography-": "Biography ", 
+	"Content": "edit"
+  }
+  ,
+  {
+	"Id": 89 ,
+	"Name": "span" ,
+	"Kids": [ ] ,
+	"class": " mw-editsection-bracket ", 
+	"Content": "]"
+  }
+  ,
+  {
+	"Id": 90 ,
+	"Name": "p" ,
+	"Kids": [ 91, 92, 93, 94, 95, 96, 98, 100, 101, 102, 103 ] ,
+	"Content": "He was son of Eliada, and had previously deserted  king of , presumably when the men of Damascus came to Hadadezer's aid. After Hadadezer's death Rezon became king in  and, like  harried  borders. Archaeology has not confirmed his identity. One solution, popular in the late 19th century, was identification of Rezon as the throne name of , the grandfather of , who was a contemporary of , King of Judah (1 Kings 15:18)."
+  }
+  ,
+  {
+	"Id": 91 ,
+	"Name": "a" ,
+	"Kids": [ ] ,
+	"href": "wiki Hadadezer_bar_Rehob", 
+	"class": " mw-redirect ", 
+	"title": " Hadadezer", 
+	"bar": "bar", 
+	"Rehob-": "Rehob ", 
+	"Content": "Hadadezer"
+  }
+  ,
+  {
+	"Id": 92 ,
+	"Name": "a" ,
+	"Kids": [ ] ,
+	"href": "wiki Zobah", 
+	"title": " Zobah ", 
+	"Content": "Zobah"
+  }
+  ,
+  {
+	"Id": 93 ,
+	"Name": "a" ,
+	"Kids": [ ] ,
+	"href": "wiki Damascus#Aram-Damascus", 
+	"title": " Damascus ", 
+	"Content": "Damascus"
+  }
+  ,
+  {
+	"Id": 94 ,
+	"Name": "a" ,
+	"Kids": [ ] ,
+	"href": "wiki Hadad_the_Edomite", 
+	"title": " Hadad", 
+	"the": "the", 
+	"Edomite-": "Edomite ", 
+	"Content": "Hadad the Edomite"
+  }
+  ,
+  {
+	"Id": 95 ,
+	"Name": "a" ,
+	"Kids": [ ] ,
+	"href": "wiki Kingdom_of_Israel_(united_monarchy)", 
+	"title": " Kingdom", 
+	"of": "of", 
+	"Israel": "Israel", 
+	"(united": "(united", 
+	"monarchy)-": "monarchy) ", 
+	"Content": "Israel's"
+  }
+  ,
+  {
+	"Id": 96 ,
+	"Name": "sup" ,
+	"Kids": [ 97 ] ,
+	"id": "cite_ref-5", 
+	"class": " reference ", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 97 ,
+	"Name": "a" ,
+	"Kids": [ ] ,
+	"href": "#cite_note-5", 
+	"Content": "&#91;5&#93;"
+  }
+  ,
+  {
+	"Id": 98 ,
+	"Name": "sup" ,
+	"Kids": [ 99 ] ,
+	"id": "cite_ref-6", 
+	"class": " reference ", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 99 ,
+	"Name": "a" ,
+	"Kids": [ ] ,
+	"href": "#cite_note-6", 
+	"Content": "&#91;6&#93;"
+  }
+  ,
+  {
+	"Id": 100 ,
+	"Name": "a" ,
+	"Kids": [ ] ,
+	"href": "wiki Hezion", 
+	"title": " Hezion ", 
+	"Content": "Hezion"
+  }
+  ,
+  {
+	"Id": 101 ,
+	"Name": "a" ,
+	"Kids": [ ] ,
+	"href": "wiki Ben-Hadad_I", 
+	"title": " Ben-Hadad", 
+	"I-": "I ", 
+	"Content": "Ben-Hadad I"
+  }
+  ,
+  {
+	"Id": 102 ,
+	"Name": "a" ,
+	"Kids": [ ] ,
+	"href": "wiki Asa_of_Judah", 
+	"title": " Asa", 
+	"of": "of", 
+	"Judah-": "Judah ", 
+	"Content": "Asa"
+  }
+  ,
+  {
+	"Id": 103 ,
+	"Name": "sup" ,
+	"Kids": [ 104 ] ,
+	"id": "cite_ref-7", 
+	"class": " reference ", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 104 ,
+	"Name": "a" ,
+	"Kids": [ ] ,
+	"href": "#cite_note-7", 
+	"Content": "&#91;7&#93;"
+  }
+  ,
+  {
+	"Id": 105 ,
+	"Name": "h2" ,
+	"Kids": [ 106, 107 ] ,
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 106 ,
+	"Name": "span" ,
+	"Kids": [ ] ,
+	"class": " mw-headline ", 
+	"id": "See_also", 
+	"Content": "See also"
+  }
+  ,
+  {
+	"Id": 107 ,
+	"Name": "span" ,
+	"Kids": [ 108, 109, 110 ] ,
+	"class": " mw-editsection ", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 108 ,
+	"Name": "span" ,
+	"Kids": [ ] ,
+	"class": " mw-editsection-bracket ", 
+	"Content": "["
+  }
+  ,
+  {
+	"Id": 109 ,
+	"Name": "a" ,
+	"Kids": [ ] ,
+	"href": "w index.php?title=Rezon_the_Syrian&amp;action=edit&amp;section=2", 
+	"title": " Edit", 
+	"section:": "section:", 
+	"See": "See", 
+	"also-": "also ", 
+	"Content": "edit"
+  }
+  ,
+  {
+	"Id": 110 ,
+	"Name": "span" ,
+	"Kids": [ ] ,
+	"class": " mw-editsection-bracket ", 
+	"Content": "]"
+  }
+  ,
+  {
+	"Id": 111 ,
+	"Name": "style" ,
+	"Kids": [ ] ,
+	"data-mw-deduplicate": " TemplateStyles:r936637989 ", 
+	"Content": ".mw-parser-output .portal{border:solid #aaa 1px;padding:0}.mw-parser-output .portal.tleft{margin:0.5em 1em 0.5em 0}.mw-parser-output .portal.tright{margin:0.5em 0 0.5em 1em}.mw-parser-output .portal>ul{display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold}.mw-parser-output .portal>ul>li{display:table-row}.mw-parser-output .portal>ul>li>span:first-child{display:table-cell;padding:0.2em;vertical-align:middle;text-align:center}.mw-parser-output .portal>ul>li>span:last-child{display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle}"
+  }
+  ,
+  {
+	"Id": 112 ,
+	"Name": "div" ,
+	"Kids": [ 113 ] ,
+	"role": " navigation ", 
+	"aria-label": " Portals ", 
+	"class": " noprint", 
+	"portal": "portal", 
+	"plainlist": "plainlist", 
+	"tright-": "tright ", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 113 ,
+	"Name": "ul" ,
+	"Kids": [ 114 ] ,
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 114 ,
+	"Name": "li" ,
+	"Kids": [ 115, 118 ] ,
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 115 ,
+	"Name": "span" ,
+	"Kids": [ 116 ] ,
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 116 ,
+	"Name": "a" ,
+	"Kids": [ 117 ] ,
+	"href": "wiki File:Asia_(orthographic_projection).svg", 
+	"class": " image ", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 117 ,
+	"Name": "img" ,
+	"Kids": [ ] ,
+	"alt": " icon ", 
+	"src": "   upload.wikimedia.org wikipedia commons thumb 8 80 Asia_%28orthographic_projection%29.svg 28px-Asia_%28orthographic_projection%29.svg.png ", 
+	"decoding": " async ", 
+	"width": " 28 ", 
+	"height": " 28 ", 
+	"class": " noviewer ", 
+	"srcset": "   upload.wikimedia.org wikipedia commons thumb 8 80 Asia_%28orthographic_projection%29.svg 42px-Asia_%28orthographic_projection%29.svg.png", 
+	"1.5x,": "1.5x,", 
+	"--upload.wikimedia.org-wikipedia-commons-thumb-8-80-Asia_%28orthographic_projection%29.svg-56px-Asia_%28orthographic_projection%29.svg.png": "  upload.wikimedia.org wikipedia commons thumb 8 80 Asia_%28orthographic_projection%29.svg 56px-Asia_%28orthographic_projection%29.svg.png", 
+	"2x-": "2x ", 
+	"data-file-width": " 541 ", 
+	"data-file-height": " 541 ", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 118 ,
+	"Name": "span" ,
+	"Kids": [ 119 ] ,
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 119 ,
+	"Name": "a" ,
+	"Kids": [ ] ,
+	"href": "wiki Portal:Asia", 
+	"title": " Portal:Asia ", 
+	"Content": "Asia portal"
+  }
+  ,
+  {
+	"Id": 120 ,
+	"Name": "ul" ,
+	"Kids": [ 121, 123, 125 ] ,
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 121 ,
+	"Name": "li" ,
+	"Kids": [ 122 ] ,
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 122 ,
+	"Name": "a" ,
+	"Kids": [ ] ,
+	"href": "wiki List_of_Syrian_monarchs", 
+	"title": " List", 
+	"of": "of", 
+	"Syrian": "Syrian", 
+	"monarchs-": "monarchs ", 
+	"Content": "List of Syrian monarchs"
+  }
+  ,
+  {
+	"Id": 123 ,
+	"Name": "li" ,
+	"Kids": [ 124 ] ,
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 124 ,
+	"Name": "a" ,
+	"Kids": [ ] ,
+	"href": "wiki Timeline_of_Syrian_history", 
+	"title": " Timeline", 
+	"of": "of", 
+	"Syrian": "Syrian", 
+	"history-": "history ", 
+	"Content": "Timeline of Syrian history"
+  }
+  ,
+  {
+	"Id": 125 ,
+	"Name": "li" ,
+	"Kids": [ 126 ] ,
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 126 ,
+	"Name": "a" ,
+	"Kids": [ ] ,
+	"href": "wiki Aramean_kings", 
+	"title": " Aramean", 
+	"kings-": "kings ", 
+	"Content": "Aramean kings"
+  }
+  ,
+  {
+	"Id": 127 ,
+	"Name": "h2" ,
+	"Kids": [ 128, 129 ] ,
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 128 ,
+	"Name": "span" ,
+	"Kids": [ ] ,
+	"class": " mw-headline ", 
+	"id": "References", 
+	"Content": "References"
+  }
+  ,
+  {
+	"Id": 129 ,
+	"Name": "span" ,
+	"Kids": [ 130, 131, 132 ] ,
+	"class": " mw-editsection ", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 130 ,
+	"Name": "span" ,
+	"Kids": [ ] ,
+	"class": " mw-editsection-bracket ", 
+	"Content": "["
+  }
+  ,
+  {
+	"Id": 131 ,
+	"Name": "a" ,
+	"Kids": [ ] ,
+	"href": "w index.php?title=Rezon_the_Syrian&amp;action=edit&amp;section=3", 
+	"title": " Edit", 
+	"section:": "section:", 
+	"References-": "References ", 
+	"Content": "edit"
+  }
+  ,
+  {
+	"Id": 132 ,
+	"Name": "span" ,
+	"Kids": [ ] ,
+	"class": " mw-editsection-bracket ", 
+	"Content": "]"
+  }
+  ,
+  {
+	"Id": 133 ,
+	"Name": "div" ,
+	"Kids": [ 134 ] ,
+	"class": " reflist ", 
+	"style": " list-style-type:", 
+	"decimal;-": "decimal; ", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 134 ,
+	"Name": "div" ,
+	"Kids": [ 135 ] ,
+	"class": " mw-references-wrap ", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 135 ,
+	"Name": "ol" ,
+	"Kids": [ 136, 145, 154, 167, 180, 185, 190 ] ,
+	"class": " references ", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 136 ,
+	"Name": "li" ,
+	"Kids": [ 137, 140 ] ,
+	"id": "cite_note-FOOTNOTELipiński2000&#91;httpsbooksgooglecombooksidrrMKKtiBBI4CpgPA369_369&#93;-1", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 137 ,
+	"Name": "span" ,
+	"Kids": [ 138 ] ,
+	"class": " mw-cite-backlink ", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 138 ,
+	"Name": "b" ,
+	"Kids": [ 139 ] ,
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 139 ,
+	"Name": "a" ,
+	"Kids": [ ] ,
+	"href": "#cite_ref-FOOTNOTELipiński2000[httpsbooksgooglecombooksidrrMKKtiBBI4CpgPA369_369]_1-0", 
+	"Content": "^"
+  }
+  ,
+  {
+	"Id": 140 ,
+	"Name": "span" ,
+	"Kids": [ 141, 142, 143 ] ,
+	"class": " reference-text ", 
+	"Content": ", p.&#160;."
+  }
+  ,
+  {
+	"Id": 141 ,
+	"Name": "a" ,
+	"Kids": [ ] ,
+	"href": "#CITEREFLipiński2000", 
+	"Content": "Lipiński 2000"
+  }
+  ,
+  {
+	"Id": 142 ,
+	"Name": "a" ,
+	"Kids": [ ] ,
+	"rel": " nofollow ", 
+	"class": " external", 
+	"text-": "text ", 
+	"href": "https:  books.google.com books?id=rrMKKtiBBI4C&amp;pg=PA369", 
+	"Content": "369"
+  }
+  ,
+  {
+	"Id": 143 ,
+	"Name": "span" ,
+	"Kids": [ 144 ] ,
+	"class": " error", 
+	"harv-error-": "harv-error ", 
+	"style": " display:", 
+	"none;": "none;", 
+	"font-size:100%-": "font-size:100% ", 
+	"Content": " sfn error: no target: CITEREFLipiński2000 ()"
+  }
+  ,
+  {
+	"Id": 144 ,
+	"Name": "a" ,
+	"Kids": [ ] ,
+	"href": "wiki Category:Harv_and_Sfn_template_errors", 
+	"title": " Category:Harv", 
+	"and": "and", 
+	"Sfn": "Sfn", 
+	"template": "template", 
+	"errors-": "errors ", 
+	"Content": "help"
+  }
+  ,
+  {
+	"Id": 145 ,
+	"Name": "li" ,
+	"Kids": [ 146, 149 ] ,
+	"id": "cite_note-FOOTNOTEGalvin2011&#91;httpsbooksgooglecombooksidwWnIkMx8dpQCpgPA90_90&#93;-2", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 146 ,
+	"Name": "span" ,
+	"Kids": [ 147 ] ,
+	"class": " mw-cite-backlink ", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 147 ,
+	"Name": "b" ,
+	"Kids": [ 148 ] ,
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 148 ,
+	"Name": "a" ,
+	"Kids": [ ] ,
+	"href": "#cite_ref-FOOTNOTEGalvin2011[httpsbooksgooglecombooksidwWnIkMx8dpQCpgPA90_90]_2-0", 
+	"Content": "^"
+  }
+  ,
+  {
+	"Id": 149 ,
+	"Name": "span" ,
+	"Kids": [ 150, 151, 152 ] ,
+	"class": " reference-text ", 
+	"Content": ", p.&#160;."
+  }
+  ,
+  {
+	"Id": 150 ,
+	"Name": "a" ,
+	"Kids": [ ] ,
+	"href": "#CITEREFGalvin2011", 
+	"Content": "Galvin 2011"
+  }
+  ,
+  {
+	"Id": 151 ,
+	"Name": "a" ,
+	"Kids": [ ] ,
+	"rel": " nofollow ", 
+	"class": " external", 
+	"text-": "text ", 
+	"href": "https:  books.google.com books?id=wWnIkMx8dpQC&amp;pg=PA90", 
+	"Content": "90"
+  }
+  ,
+  {
+	"Id": 152 ,
+	"Name": "span" ,
+	"Kids": [ 153 ] ,
+	"class": " error", 
+	"harv-error-": "harv-error ", 
+	"style": " display:", 
+	"none;": "none;", 
+	"font-size:100%-": "font-size:100% ", 
+	"Content": " sfn error: no target: CITEREFGalvin2011 ()"
+  }
+  ,
+  {
+	"Id": 153 ,
+	"Name": "a" ,
+	"Kids": [ ] ,
+	"href": "wiki Category:Harv_and_Sfn_template_errors", 
+	"title": " Category:Harv", 
+	"and": "and", 
+	"Sfn": "Sfn", 
+	"template": "template", 
+	"errors-": "errors ", 
+	"Content": "help"
+  }
+  ,
+  {
+	"Id": 154 ,
+	"Name": "li" ,
+	"Kids": [ 155, 158 ] ,
+	"id": "cite_note-booksonly-3", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 155 ,
+	"Name": "span" ,
+	"Kids": [ 156 ] ,
+	"class": " mw-cite-backlink ", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 156 ,
+	"Name": "b" ,
+	"Kids": [ 157 ] ,
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 157 ,
+	"Name": "a" ,
+	"Kids": [ ] ,
+	"href": "#cite_ref-booksonly_3-0", 
+	"Content": "^"
+  }
+  ,
+  {
+	"Id": 158 ,
+	"Name": "span" ,
+	"Kids": [ 159, 160, 166 ] ,
+	"class": " reference-text ", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 159 ,
+	"Name": "style" ,
+	"Kids": [ ] ,
+	"data-mw-deduplicate": " TemplateStyles:r999302996 ", 
+	"Content": ".mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:---------'--'-}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url(---upload.wikimedia.org-wikipedia-commons-6-65-Lock-green.svg-)right 0.1em center-9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url(---upload.wikimedia.org-wikipedia-commons-d-d6-Lock-gray-alt-2.svg-)right 0.1em center-9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url(---upload.wikimedia.org-wikipedia-commons-a-aa-Lock-red-alt-2.svg-)right 0.1em center-9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url(---upload.wikimedia.org-wikipedia-commons-4-4c-Wikisource-logo.svg-)right 0.1em center-12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}"
+  }
+  ,
+  {
+	"Id": 160 ,
+	"Name": "cite" ,
+	"Kids": [ 161, 163, 164 ] ,
+	"id": "CITEREFRonald_F._Youngblood2014", 
+	"class": " citation", 
+	"book": "book", 
+	"cs1-": "cs1 ", 
+	"Content": "Ronald F. Youngblood (2014). . p.&#160;1099. &#160;."
+  }
+  ,
+  {
+	"Id": 161 ,
+	"Name": "a" ,
+	"Kids": [ 162 ] ,
+	"rel": " nofollow ", 
+	"class": " external", 
+	"text-": "text ", 
+	"href": "https:  books.google.com books?id=_cEjBQAAQBAJ&amp;pg=PA1099", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 162 ,
+	"Name": "i" ,
+	"Kids": [ ] ,
+	"Content": "Nelson's Illustrated Bible Dictionary: New and Enhanced Edition"
+  }
+  ,
+  {
+	"Id": 163 ,
+	"Name": "a" ,
+	"Kids": [ ] ,
+	"href": "wiki ISBN_(identifier)", 
+	"class": " mw-redirect ", 
+	"title": " ISBN", 
+	"(identifier)-": "(identifier) ", 
+	"Content": "ISBN"
+  }
+  ,
+  {
+	"Id": 164 ,
+	"Name": "a" ,
+	"Kids": [ 165 ] ,
+	"href": "wiki Special:BookSources 9780529106247", 
+	"title": " Special:BookSources 9780529106247 ", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 165 ,
+	"Name": "bdi" ,
+	"Kids": [ ] ,
+	"Content": "9780529106247"
+  }
+  ,
+  {
+	"Id": 166 ,
+	"Name": "span" ,
+	"Kids": [ ] ,
+	"title": " ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Nelson%27s+Illustrated+Bible+Dictionary%3A+New+and+Enhanced+Edition&amp;rft.pages=1099&amp;rft.date=2014&amp;rft.isbn=9780529106247&amp;rft.au=Ronald+F.+Youngblood&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D_cEjBQAAQBAJ%26pg%3DPA1099&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARezon+the+Syrian ", 
+	"class": " Z3988 ", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 167 ,
+	"Name": "li" ,
+	"Kids": [ 168, 171 ] ,
+	"id": "cite_note-4", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 168 ,
+	"Name": "span" ,
+	"Kids": [ 169 ] ,
+	"class": " mw-cite-backlink ", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 169 ,
+	"Name": "b" ,
+	"Kids": [ 170 ] ,
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 170 ,
+	"Name": "a" ,
+	"Kids": [ ] ,
+	"href": "#cite_ref-4", 
+	"Content": "^"
+  }
+  ,
+  {
+	"Id": 171 ,
+	"Name": "span" ,
+	"Kids": [ 172, 173, 179 ] ,
+	"class": " reference-text ", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 172 ,
+	"Name": "link" ,
+	"Kids": [ ] ,
+	"rel": " mw-deduplicated-inline-style ", 
+	"href": "mw-data:TemplateStyles:r999302996", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 173 ,
+	"Name": "cite" ,
+	"Kids": [ 174, 176, 177 ] ,
+	"id": "CITEREFTrevor_Bryce2012", 
+	"class": " citation", 
+	"book": "book", 
+	"cs1-": "cs1 ", 
+	"Content": "Trevor Bryce (2012). . p.&#160;178. &#160;."
+  }
+  ,
+  {
+	"Id": 174 ,
+	"Name": "a" ,
+	"Kids": [ 175 ] ,
+	"rel": " nofollow ", 
+	"class": " external", 
+	"text-": "text ", 
+	"href": "https:  books.google.com books?id=gp8lMpoFAUsC&amp;pg=PA178", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 175 ,
+	"Name": "i" ,
+	"Kids": [ ] ,
+	"Content": "The World of The Neo-Hittite Kingdoms: A Political and Military 0History"
+  }
+  ,
+  {
+	"Id": 176 ,
+	"Name": "a" ,
+	"Kids": [ ] ,
+	"href": "wiki ISBN_(identifier)", 
+	"class": " mw-redirect ", 
+	"title": " ISBN", 
+	"(identifier)-": "(identifier) ", 
+	"Content": "ISBN"
+  }
+  ,
+  {
+	"Id": 177 ,
+	"Name": "a" ,
+	"Kids": [ 178 ] ,
+	"href": "wiki Special:BookSources 9780191505027", 
+	"title": " Special:BookSources 9780191505027 ", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 178 ,
+	"Name": "bdi" ,
+	"Kids": [ ] ,
+	"Content": "9780191505027"
+  }
+  ,
+  {
+	"Id": 179 ,
+	"Name": "span" ,
+	"Kids": [ ] ,
+	"title": " ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+World+of+The+Neo-Hittite+Kingdoms%3A+A+Political+and+Military+0History&amp;rft.pages=178&amp;rft.date=2012&amp;rft.isbn=9780191505027&amp;rft.au=Trevor+Bryce&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3Dgp8lMpoFAUsC%26pg%3DPA178&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARezon+the+Syrian ", 
+	"class": " Z3988 ", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 180 ,
+	"Name": "li" ,
+	"Kids": [ 181, 184 ] ,
+	"id": "cite_note-5", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 181 ,
+	"Name": "span" ,
+	"Kids": [ 182 ] ,
+	"class": " mw-cite-backlink ", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 182 ,
+	"Name": "b" ,
+	"Kids": [ 183 ] ,
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 183 ,
+	"Name": "a" ,
+	"Kids": [ ] ,
+	"href": "#cite_ref-5", 
+	"Content": "^"
+  }
+  ,
+  {
+	"Id": 184 ,
+	"Name": "span" ,
+	"Kids": [ ] ,
+	"class": " reference-text ", 
+	"Content": "1 Kings 11:23 God also raised up as an adversary to him, Rezon the son of Eliada, who had fled from his master Hadadezer king of Zobah. 24 And he gathered men about him and became leader of a marauding band, after the killing by David. And they went to Damascus and lived there and made him king in Damascus. 25 He was an adversary of Israel all the days of Solomon, doing harm as Hadad did. And he loathed Israel and reigned over Syria."
+  }
+  ,
+  {
+	"Id": 185 ,
+	"Name": "li" ,
+	"Kids": [ 186, 189 ] ,
+	"id": "cite_note-6", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 186 ,
+	"Name": "span" ,
+	"Kids": [ 187 ] ,
+	"class": " mw-cite-backlink ", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 187 ,
+	"Name": "b" ,
+	"Kids": [ 188 ] ,
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 188 ,
+	"Name": "a" ,
+	"Kids": [ ] ,
+	"href": "#cite_ref-6", 
+	"Content": "^"
+  }
+  ,
+  {
+	"Id": 189 ,
+	"Name": "span" ,
+	"Kids": [ ] ,
+	"class": " reference-text ", 
+	"Content": "The New Unger's Bible Dictionary Merrill F. Unger, Roland Kenneth Harrison, R. K. Harrison - 2006 -The succession of Syrian kings who reigned at Damascus and elevated the city-state to the height of its power. ... Damascus has been corroborated by archaeological evidence, but the identity of Rezon who seized Damascus during Solomon's reign and apparently ruled there (11:23-25) is still unsolved.-"
+  }
+  ,
+  {
+	"Id": 190 ,
+	"Name": "li" ,
+	"Kids": [ 191, 194 ] ,
+	"id": "cite_note-7", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 191 ,
+	"Name": "span" ,
+	"Kids": [ 192 ] ,
+	"class": " mw-cite-backlink ", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 192 ,
+	"Name": "b" ,
+	"Kids": [ 193 ] ,
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 193 ,
+	"Name": "a" ,
+	"Kids": [ ] ,
+	"href": "#cite_ref-7", 
+	"Content": "^"
+  }
+  ,
+  {
+	"Id": 194 ,
+	"Name": "span" ,
+	"Kids": [ ] ,
+	"class": " reference-text ", 
+	"Content": "Wayne Thomas Pitard Ancient Damascus: A Historical Study of the Syrian City-State 1987 p102  -Although the correct name of the first king of Damascus has been settled by the new extra-biblical evidence, the problem of the identity of Rezon, who seized Damascus during Solomon's administration and apparently ruled there, ...-"
+  }
+  ,
+  {
+	"Id": 195 ,
+	"Name": "noscript" ,
+	"Kids": [ 196 ] ,
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 196 ,
+	"Name": "img" ,
+	"Kids": [ ] ,
+	"src": "   en.wikipedia.org wiki Special:CentralAutoLogin start?type=1x1 ", 
+	"alt": "", 
+	"title": "", 
+	"width": " 1 ", 
+	"height": " 1 ", 
+	"style": " border:", 
+	"none;": "none;", 
+	"position:": "position:", 
+	"absolute;-": "absolute; ", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 197 ,
+	"Name": "div" ,
+	"Kids": [ 198 ] ,
+	"class": " printfooter ", 
+	"Content": "Retrieved from --"
+  }
+  ,
+  {
+	"Id": 198 ,
+	"Name": "a" ,
+	"Kids": [ ] ,
+	"dir": " ltr ", 
+	"href": "https:  en.wikipedia.org w index.php?title=Rezon_the_Syrian&amp;oldid=981612649", 
+	"Content": "https:--en.wikipedia.org-w-index.php?title=Rezon_the_Syrian&amp;oldid=981612649"
+  }
+  ,
+  {
+	"Id": 199 ,
+	"Name": "div" ,
+	"Kids": [ 200, 213 ] ,
+	"id": "catlinks", 
+	"class": " catlinks ", 
+	"data-mw": " interface ", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 200 ,
+	"Name": "div" ,
+	"Kids": [ 201, 202 ] ,
+	"id": "mw-normal-catlinks", 
+	"class": " mw-normal-catlinks ", 
+	"Content": ": "
+  }
+  ,
+  {
+	"Id": 201 ,
+	"Name": "a" ,
+	"Kids": [ ] ,
+	"href": "wiki Help:Category", 
+	"title": " Help:Category ", 
+	"Content": "Categories"
+  }
+  ,
+  {
+	"Id": 202 ,
+	"Name": "ul" ,
+	"Kids": [ 203, 205, 207, 209, 211 ] ,
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 203 ,
+	"Name": "li" ,
+	"Kids": [ 204 ] ,
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 204 ,
+	"Name": "a" ,
+	"Kids": [ ] ,
+	"href": "wiki Category:10th-century_BC_Kings_of_Syria", 
+	"title": " Category:10th-century", 
+	"BC": "BC", 
+	"Kings": "Kings", 
+	"of": "of", 
+	"Syria-": "Syria ", 
+	"Content": "10th-century BC Kings of Syria"
+  }
+  ,
+  {
+	"Id": 205 ,
+	"Name": "li" ,
+	"Kids": [ 206 ] ,
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 206 ,
+	"Name": "a" ,
+	"Kids": [ ] ,
+	"href": "wiki Category:Kings_of_Syria", 
+	"title": " Category:Kings", 
+	"of": "of", 
+	"Syria-": "Syria ", 
+	"Content": "Kings of Syria"
+  }
+  ,
+  {
+	"Id": 207 ,
+	"Name": "li" ,
+	"Kids": [ 208 ] ,
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 208 ,
+	"Name": "a" ,
+	"Kids": [ ] ,
+	"href": "wiki Category:Hebrew_Bible_people", 
+	"title": " Category:Hebrew", 
+	"Bible": "Bible", 
+	"people-": "people ", 
+	"Content": "Hebrew Bible people"
+  }
+  ,
+  {
+	"Id": 209 ,
+	"Name": "li" ,
+	"Kids": [ 210 ] ,
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 210 ,
+	"Name": "a" ,
+	"Kids": [ ] ,
+	"href": "wiki Category:Solomon", 
+	"title": " Category:Solomon ", 
+	"Content": "Solomon"
+  }
+  ,
+  {
+	"Id": 211 ,
+	"Name": "li" ,
+	"Kids": [ 212 ] ,
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 212 ,
+	"Name": "a" ,
+	"Kids": [ ] ,
+	"href": "wiki Category:Books_of_Kings", 
+	"title": " Category:Books", 
+	"of": "of", 
+	"Kings-": "Kings ", 
+	"Content": "Books of Kings"
+  }
+  ,
+  {
+	"Id": 213 ,
+	"Name": "div" ,
+	"Kids": [ 214 ] ,
+	"id": "mw-hidden-catlinks", 
+	"class": " mw-hidden-catlinks", 
+	"mw-hidden-cats-hidden-": "mw-hidden-cats-hidden ", 
+	"Content": "Hidden categories: "
+  }
+  ,
+  {
+	"Id": 214 ,
+	"Name": "ul" ,
+	"Kids": [ 215, 217, 219 ] ,
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 215 ,
+	"Name": "li" ,
+	"Kids": [ 216 ] ,
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 216 ,
+	"Name": "a" ,
+	"Kids": [ ] ,
+	"href": "wiki Category:Harv_and_Sfn_no-target_errors", 
+	"title": " Category:Harv", 
+	"and": "and", 
+	"Sfn": "Sfn", 
+	"no-target": "no-target", 
+	"errors-": "errors ", 
+	"Content": "Harv and Sfn no-target errors"
+  }
+  ,
+  {
+	"Id": 217 ,
+	"Name": "li" ,
+	"Kids": [ 218 ] ,
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 218 ,
+	"Name": "a" ,
+	"Kids": [ ] ,
+	"href": "wiki Category:Articles_with_short_description", 
+	"title": " Category:Articles", 
+	"with": "with", 
+	"short": "short", 
+	"description-": "description ", 
+	"Content": "Articles with short description"
+  }
+  ,
+  {
+	"Id": 219 ,
+	"Name": "li" ,
+	"Kids": [ 220 ] ,
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 220 ,
+	"Name": "a" ,
+	"Kids": [ ] ,
+	"href": "wiki Category:Short_description_matches_Wikidata", 
+	"title": " Category:Short", 
+	"description": "description", 
+	"matches": "matches", 
+	"Wikidata-": "Wikidata ", 
+	"Content": "Short description matches Wikidata"
+  }
+  ,
+  {
+	"Id": 221 ,
+	"Name": "div" ,
+	"Kids": [ 222 ] ,
+	"id": "'mw-data-after-content'", 
+	"Content": "	"
+  }
+  ,
+  {
+	"Id": 222 ,
+	"Name": "div" ,
+	"Kids": [ ] ,
+	"class": " read-more-container ", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 223 ,
+	"Name": "div" ,
+	"Kids": [ 224, 225, 283 ] ,
+	"id": "mw-navigation", 
+	"Content": "			"
+  }
+  ,
+  {
+	"Id": 224 ,
+	"Name": "h2" ,
+	"Kids": [ ] ,
+	"Content": "Navigation menu"
+  }
+  ,
+  {
+	"Id": 225 ,
+	"Name": "div" ,
+	"Kids": [ 226, 240, 256 ] ,
+	"id": "mw-head", 
+	"Content": "							"
+  }
+  ,
+  {
+	"Id": 226 ,
+	"Name": "nav" ,
+	"Kids": [ 227, 229 ] ,
+	"id": "p-personal", 
+	"class": " mw-portlet", 
+	"mw-portlet-personal": "mw-portlet-personal", 
+	"vector-menu-": "vector-menu ", 
+	"aria-labelledby": " p-personal-label ", 
+	"role": " navigation ", 
+	"  	": "  	", 
+	"Content": "		"
+  }
+  ,
+  {
+	"Id": 227 ,
+	"Name": "h3" ,
+	"Kids": [ 228 ] ,
+	"id": "p-personal-label", 
+	"Content": "			"
+  }
+  ,
+  {
+	"Id": 228 ,
+	"Name": "span" ,
+	"Kids": [ ] ,
+	"Content": "Personal tools"
+  }
+  ,
+  {
+	"Id": 229 ,
+	"Name": "div" ,
+	"Kids": [ 230 ] ,
+	"class": " vector-menu-content ", 
+	"Content": "					"
+  }
+  ,
+  {
+	"Id": 230 ,
+	"Name": "ul" ,
+	"Kids": [ 231, 232, 234, 236, 238 ] ,
+	"class": " vector-menu-content-list ", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 231 ,
+	"Name": "li" ,
+	"Kids": [ ] ,
+	"id": "pt-anonuserpage", 
+	"Content": "Not logged in"
+  }
+  ,
+  {
+	"Id": 232 ,
+	"Name": "li" ,
+	"Kids": [ 233 ] ,
+	"id": "pt-anontalk", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 233 ,
+	"Name": "a" ,
+	"Kids": [ ] ,
+	"href": "wiki Special:MyTalk", 
+	"title": " Discussion", 
+	"about": "about", 
+	"edits": "edits", 
+	"from": "from", 
+	"this": "this", 
+	"IP": "IP", 
+	"address": "address", 
+	"[n]-": "[n] ", 
+	"accesskey": " n ", 
+	"Content": "Talk"
+  }
+  ,
+  {
+	"Id": 234 ,
+	"Name": "li" ,
+	"Kids": [ 235 ] ,
+	"id": "pt-anoncontribs", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 235 ,
+	"Name": "a" ,
+	"Kids": [ ] ,
+	"href": "wiki Special:MyContributions", 
+	"title": " A", 
+	"list": "list", 
+	"of": "of", 
+	"edits": "edits", 
+	"made": "made", 
+	"from": "from", 
+	"this": "this", 
+	"IP": "IP", 
+	"address": "address", 
+	"[y]-": "[y] ", 
+	"accesskey": " y ", 
+	"Content": "Contributions"
+  }
+  ,
+  {
+	"Id": 236 ,
+	"Name": "li" ,
+	"Kids": [ 237 ] ,
+	"id": "pt-createaccount", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 237 ,
+	"Name": "a" ,
+	"Kids": [ ] ,
+	"href": "w index.php?title=Special:CreateAccount&amp;returnto=Rezon+the+Syrian", 
+	"title": " You", 
+	"are": "are", 
+	"encouraged": "encouraged", 
+	"to": "to", 
+	"create": "create", 
+	"an": "an", 
+	"account": "account", 
+	"and": "and", 
+	"log": "log", 
+	"in;": "in;", 
+	"however,": "however,", 
+	"it": "it", 
+	"is": "is", 
+	"not": "not", 
+	"mandatory-": "mandatory ", 
+	"Content": "Create account"
+  }
+  ,
+  {
+	"Id": 238 ,
+	"Name": "li" ,
+	"Kids": [ 239 ] ,
+	"id": "pt-login", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 239 ,
+	"Name": "a" ,
+	"Kids": [ ] ,
+	"href": "w index.php?title=Special:UserLogin&amp;returnto=Rezon+the+Syrian", 
+	"title": " You&#039;re", 
+	"encouraged": "encouraged", 
+	"to": "to", 
+	"log": "log", 
+	"in;": "in;", 
+	"however,": "however,", 
+	"it&#039;s": "it&#039;s", 
+	"not": "not", 
+	"mandatory.": "mandatory.", 
+	"[o]-": "[o] ", 
+	"accesskey": " o ", 
+	"Content": "Log in"
+  }
+  ,
+  {
+	"Id": 240 ,
+	"Name": "div" ,
+	"Kids": [ 241, 250 ] ,
+	"id": "left-navigation", 
+	"Content": "								"
+  }
+  ,
+  {
+	"Id": 241 ,
+	"Name": "nav" ,
+	"Kids": [ 242, 244 ] ,
+	"id": "p-namespaces", 
+	"class": " mw-portlet", 
+	"mw-portlet-namespaces": "mw-portlet-namespaces", 
+	"vector-menu": "vector-menu", 
+	"vector-menu-tabs-": "vector-menu-tabs ", 
+	"aria-labelledby": " p-namespaces-label ", 
+	"role": " navigation ", 
+	"  	": "  	", 
+	"Content": "		"
+  }
+  ,
+  {
+	"Id": 242 ,
+	"Name": "h3" ,
+	"Kids": [ 243 ] ,
+	"id": "p-namespaces-label", 
+	"Content": "			"
+  }
+  ,
+  {
+	"Id": 243 ,
+	"Name": "span" ,
+	"Kids": [ ] ,
+	"Content": "Namespaces"
+  }
+  ,
+  {
+	"Id": 244 ,
+	"Name": "div" ,
+	"Kids": [ 245 ] ,
+	"class": " vector-menu-content ", 
+	"Content": "					"
+  }
+  ,
+  {
+	"Id": 245 ,
+	"Name": "ul" ,
+	"Kids": [ 246, 248 ] ,
+	"class": " vector-menu-content-list ", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 246 ,
+	"Name": "li" ,
+	"Kids": [ 247 ] ,
+	"id": "ca-nstab-main", 
+	"class": " selected ", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 247 ,
+	"Name": "a" ,
+	"Kids": [ ] ,
+	"href": "wiki Rezon_the_Syrian", 
+	"title": " View", 
+	"the": "the", 
+	"content": "content", 
+	"page": "page", 
+	"[c]-": "[c] ", 
+	"accesskey": " c ", 
+	"Content": "Article"
+  }
+  ,
+  {
+	"Id": 248 ,
+	"Name": "li" ,
+	"Kids": [ 249 ] ,
+	"id": "ca-talk", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 249 ,
+	"Name": "a" ,
+	"Kids": [ ] ,
+	"href": "wiki Talk:Rezon_the_Syrian", 
+	"rel": " discussion ", 
+	"title": " Discuss", 
+	"improvements": "improvements", 
+	"to": "to", 
+	"the": "the", 
+	"content": "content", 
+	"page": "page", 
+	"[t]-": "[t] ", 
+	"accesskey": " t ", 
+	"Content": "Talk"
+  }
+  ,
+  {
+	"Id": 250 ,
+	"Name": "nav" ,
+	"Kids": [ 251, 252, 254 ] ,
+	"id": "p-variants", 
+	"class": " mw-portlet", 
+	"mw-portlet-variants": "mw-portlet-variants", 
+	"emptyPortlet": "emptyPortlet", 
+	"vector-menu": "vector-menu", 
+	"vector-menu-dropdown-": "vector-menu-dropdown ", 
+	"aria-labelledby": " p-variants-label ", 
+	"role": " navigation ", 
+	"  	": "  	", 
+	"Content": "			"
+  }
+  ,
+  {
+	"Id": 251 ,
+	"Name": "input" ,
+	"Kids": [ ] ,
+	"type": " checkbox ", 
+	"class": " vector-menu-checkbox ", 
+	"aria-labelledby": " p-variants-label ", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 252 ,
+	"Name": "h3" ,
+	"Kids": [ 253 ] ,
+	"id": "p-variants-label", 
+	"Content": "			"
+  }
+  ,
+  {
+	"Id": 253 ,
+	"Name": "span" ,
+	"Kids": [ ] ,
+	"Content": "Variants"
+  }
+  ,
+  {
+	"Id": 254 ,
+	"Name": "div" ,
+	"Kids": [ 255 ] ,
+	"class": " vector-menu-content ", 
+	"Content": "					"
+  }
+  ,
+  {
+	"Id": 255 ,
+	"Name": "ul" ,
+	"Kids": [ ] ,
+	"class": " vector-menu-content-list ", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 256 ,
+	"Name": "div" ,
+	"Kids": [ 257, 268, 274 ] ,
+	"id": "right-navigation", 
+	"Content": "											"
+  }
+  ,
+  {
+	"Id": 257 ,
+	"Name": "nav" ,
+	"Kids": [ 258, 260 ] ,
+	"id": "p-views", 
+	"class": " mw-portlet", 
+	"mw-portlet-views": "mw-portlet-views", 
+	"vector-menu": "vector-menu", 
+	"vector-menu-tabs-": "vector-menu-tabs ", 
+	"aria-labelledby": " p-views-label ", 
+	"role": " navigation ", 
+	"  	": "  	", 
+	"Content": "		"
+  }
+  ,
+  {
+	"Id": 258 ,
+	"Name": "h3" ,
+	"Kids": [ 259 ] ,
+	"id": "p-views-label", 
+	"Content": "			"
+  }
+  ,
+  {
+	"Id": 259 ,
+	"Name": "span" ,
+	"Kids": [ ] ,
+	"Content": "Views"
+  }
+  ,
+  {
+	"Id": 260 ,
+	"Name": "div" ,
+	"Kids": [ 261 ] ,
+	"class": " vector-menu-content ", 
+	"Content": "					"
+  }
+  ,
+  {
+	"Id": 261 ,
+	"Name": "ul" ,
+	"Kids": [ 262, 264, 266 ] ,
+	"class": " vector-menu-content-list ", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 262 ,
+	"Name": "li" ,
+	"Kids": [ 263 ] ,
+	"id": "ca-view", 
+	"class": " selected ", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 263 ,
+	"Name": "a" ,
+	"Kids": [ ] ,
+	"href": "wiki Rezon_the_Syrian", 
+	"Content": "Read"
+  }
+  ,
+  {
+	"Id": 264 ,
+	"Name": "li" ,
+	"Kids": [ 265 ] ,
+	"id": "ca-edit", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 265 ,
+	"Name": "a" ,
+	"Kids": [ ] ,
+	"href": "w index.php?title=Rezon_the_Syrian&amp;action=edit", 
+	"title": " Edit", 
+	"this": "this", 
+	"page": "page", 
+	"[e]-": "[e] ", 
+	"accesskey": " e ", 
+	"Content": "Edit"
+  }
+  ,
+  {
+	"Id": 266 ,
+	"Name": "li" ,
+	"Kids": [ 267 ] ,
+	"id": "ca-history", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 267 ,
+	"Name": "a" ,
+	"Kids": [ ] ,
+	"href": "w index.php?title=Rezon_the_Syrian&amp;action=history", 
+	"title": " Past", 
+	"revisions": "revisions", 
+	"of": "of", 
+	"this": "this", 
+	"page": "page", 
+	"[h]-": "[h] ", 
+	"accesskey": " h ", 
+	"Content": "View history"
+  }
+  ,
+  {
+	"Id": 268 ,
+	"Name": "nav" ,
+	"Kids": [ 269, 270, 272 ] ,
+	"id": "p-cactions", 
+	"class": " mw-portlet", 
+	"mw-portlet-cactions": "mw-portlet-cactions", 
+	"emptyPortlet": "emptyPortlet", 
+	"vector-menu": "vector-menu", 
+	"vector-menu-dropdown-": "vector-menu-dropdown ", 
+	"aria-labelledby": " p-cactions-label ", 
+	"role": " navigation ", 
+	"  	": "  	", 
+	"Content": "			"
+  }
+  ,
+  {
+	"Id": 269 ,
+	"Name": "input" ,
+	"Kids": [ ] ,
+	"type": " checkbox ", 
+	"class": " vector-menu-checkbox ", 
+	"aria-labelledby": " p-cactions-label ", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 270 ,
+	"Name": "h3" ,
+	"Kids": [ 271 ] ,
+	"id": "p-cactions-label", 
+	"Content": "			"
+  }
+  ,
+  {
+	"Id": 271 ,
+	"Name": "span" ,
+	"Kids": [ ] ,
+	"Content": "More"
+  }
+  ,
+  {
+	"Id": 272 ,
+	"Name": "div" ,
+	"Kids": [ 273 ] ,
+	"class": " vector-menu-content ", 
+	"Content": "					"
+  }
+  ,
+  {
+	"Id": 273 ,
+	"Name": "ul" ,
+	"Kids": [ ] ,
+	"class": " vector-menu-content-list ", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 274 ,
+	"Name": "div" ,
+	"Kids": [ 275, 277 ] ,
+	"id": "p-search", 
+	"role": " search ", 
+	"Content": "		"
+  }
+  ,
+  {
+	"Id": 275 ,
+	"Name": "h3" ,
+	"Kids": [ 276 ] ,
+	"Content": "			"
+  }
+  ,
+  {
+	"Id": 276 ,
+	"Name": "label" ,
+	"Kids": [ ] ,
+	"for": " searchInput ", 
+	"Content": "Search"
+  }
+  ,
+  {
+	"Id": 277 ,
+	"Name": "form" ,
+	"Kids": [ 278 ] ,
+	"action": "  w index.php ", 
+	"id": "searchform", 
+	"Content": "			"
+  }
+  ,
+  {
+	"Id": 278 ,
+	"Name": "div" ,
+	"Kids": [ 279, 280, 281, 282 ] ,
+	"id": "simpleSearch", 
+	"data-search-loc": " header-navigation ", 
+	"Content": "														"
+  }
+  ,
+  {
+	"Id": 279 ,
+	"Name": "input" ,
+	"Kids": [ ] ,
+	"type": " search ", 
+	"name": " search ", 
+	"placeholder": " Search", 
+	"Wikipedia-": "Wikipedia ", 
+	"autocapitalize": " sentences ", 
+	"title": " Search", 
+	"Wikipedia": "Wikipedia", 
+	"[f]-": "[f] ", 
+	"accesskey": " f ", 
+	"id": "searchInput", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 280 ,
+	"Name": "input" ,
+	"Kids": [ ] ,
+	"type": " hidden ", 
+	"name": " title ", 
+	"value": " Special:Search ", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 281 ,
+	"Name": "input" ,
+	"Kids": [ ] ,
+	"type": " submit ", 
+	"name": " fulltext ", 
+	"value": " Search ", 
+	"title": " Search", 
+	"Wikipedia": "Wikipedia", 
+	"for": "for", 
+	"this": "this", 
+	"text-": "text ", 
+	"id": "mw-searchButton", 
+	"class": " searchButton", 
+	"mw-fallbackSearchButton-": "mw-fallbackSearchButton ", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 282 ,
+	"Name": "input" ,
+	"Kids": [ ] ,
+	"type": " submit ", 
+	"name": " go ", 
+	"value": " Go ", 
+	"title": " Go", 
+	"to": "to", 
+	"a": "a", 
+	"page": "page", 
+	"with": "with", 
+	"this": "this", 
+	"exact": "exact", 
+	"name": "name", 
+	"if": "if", 
+	"it": "it", 
+	"exists-": "exists ", 
+	"id": "searchButton", 
+	"class": " searchButton ", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 283 ,
+	"Name": "div" ,
+	"Kids": [ 284, 286, 305, 320, 341, 350 ] ,
+	"id": "mw-panel", 
+	"Content": "				"
+  }
+  ,
+  {
+	"Id": 284 ,
+	"Name": "div" ,
+	"Kids": [ 285 ] ,
+	"id": "p-logo", 
+	"role": " banner ", 
+	"Content": "			"
+  }
+  ,
+  {
+	"Id": 285 ,
+	"Name": "a" ,
+	"Kids": [ ] ,
+	"class": " mw-wiki-logo ", 
+	"href": "wiki Main_Page   			title= Visit", 
+	"the": "the", 
+	"main": "main", 
+	"page-": "page ", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 286 ,
+	"Name": "nav" ,
+	"Kids": [ 287, 289 ] ,
+	"id": "p-navigation", 
+	"class": " mw-portlet", 
+	"mw-portlet-navigation": "mw-portlet-navigation", 
+	"vector-menu": "vector-menu", 
+	"vector-menu-portal": "vector-menu-portal", 
+	"portal-": "portal ", 
+	"aria-labelledby": " p-navigation-label ", 
+	"role": " navigation ", 
+	"  	": "  	", 
+	"Content": "		"
+  }
+  ,
+  {
+	"Id": 287 ,
+	"Name": "h3" ,
+	"Kids": [ 288 ] ,
+	"id": "p-navigation-label", 
+	"Content": "			"
+  }
+  ,
+  {
+	"Id": 288 ,
+	"Name": "span" ,
+	"Kids": [ ] ,
+	"Content": "Navigation"
+  }
+  ,
+  {
+	"Id": 289 ,
+	"Name": "div" ,
+	"Kids": [ 290 ] ,
+	"class": " vector-menu-content ", 
+	"Content": "					"
+  }
+  ,
+  {
+	"Id": 290 ,
+	"Name": "ul" ,
+	"Kids": [ 291, 293, 295, 297, 299, 301, 303 ] ,
+	"class": " vector-menu-content-list ", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 291 ,
+	"Name": "li" ,
+	"Kids": [ 292 ] ,
+	"id": "n-mainpage-description", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 292 ,
+	"Name": "a" ,
+	"Kids": [ ] ,
+	"href": "wiki Main_Page", 
+	"title": " Visit", 
+	"the": "the", 
+	"main": "main", 
+	"page": "page", 
+	"[z]-": "[z] ", 
+	"accesskey": " z ", 
+	"Content": "Main page"
+  }
+  ,
+  {
+	"Id": 293 ,
+	"Name": "li" ,
+	"Kids": [ 294 ] ,
+	"id": "n-contents", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 294 ,
+	"Name": "a" ,
+	"Kids": [ ] ,
+	"href": "wiki Wikipedia:Contents", 
+	"title": " Guides", 
+	"to": "to", 
+	"browsing": "browsing", 
+	"Wikipedia-": "Wikipedia ", 
+	"Content": "Contents"
+  }
+  ,
+  {
+	"Id": 295 ,
+	"Name": "li" ,
+	"Kids": [ 296 ] ,
+	"id": "n-currentevents", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 296 ,
+	"Name": "a" ,
+	"Kids": [ ] ,
+	"href": "wiki Portal:Current_events", 
+	"title": " Articles", 
+	"related": "related", 
+	"to": "to", 
+	"current": "current", 
+	"events-": "events ", 
+	"Content": "Current events"
+  }
+  ,
+  {
+	"Id": 297 ,
+	"Name": "li" ,
+	"Kids": [ 298 ] ,
+	"id": "n-randompage", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 298 ,
+	"Name": "a" ,
+	"Kids": [ ] ,
+	"href": "wiki Special:Random", 
+	"title": " Visit", 
+	"a": "a", 
+	"randomly": "randomly", 
+	"selected": "selected", 
+	"article": "article", 
+	"[x]-": "[x] ", 
+	"accesskey": " x ", 
+	"Content": "Random article"
+  }
+  ,
+  {
+	"Id": 299 ,
+	"Name": "li" ,
+	"Kids": [ 300 ] ,
+	"id": "n-aboutsite", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 300 ,
+	"Name": "a" ,
+	"Kids": [ ] ,
+	"href": "wiki Wikipedia:About", 
+	"title": " Learn", 
+	"about": "about", 
+	"Wikipedia": "Wikipedia", 
+	"and": "and", 
+	"how": "how", 
+	"it": "it", 
+	"works-": "works ", 
+	"Content": "About Wikipedia"
+  }
+  ,
+  {
+	"Id": 301 ,
+	"Name": "li" ,
+	"Kids": [ 302 ] ,
+	"id": "n-contactpage", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 302 ,
+	"Name": "a" ,
+	"Kids": [ ] ,
+	"href": "en.wikipedia.org wiki Wikipedia:Contact_us", 
+	"title": " How", 
+	"to": "to", 
+	"contact": "contact", 
+	"Wikipedia-": "Wikipedia ", 
+	"Content": "Contact us"
+  }
+  ,
+  {
+	"Id": 303 ,
+	"Name": "li" ,
+	"Kids": [ 304 ] ,
+	"id": "n-sitesupport", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 304 ,
+	"Name": "a" ,
+	"Kids": [ ] ,
+	"href": "https:  donate.wikimedia.org wiki Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en", 
+	"title": " Support", 
+	"us": "us", 
+	"by": "by", 
+	"donating": "donating", 
+	"to": "to", 
+	"the": "the", 
+	"Wikimedia": "Wikimedia", 
+	"Foundation-": "Foundation ", 
+	"Content": "Donate"
+  }
+  ,
+  {
+	"Id": 305 ,
+	"Name": "nav" ,
+	"Kids": [ 306, 308 ] ,
+	"id": "p-interaction", 
+	"class": " mw-portlet", 
+	"mw-portlet-interaction": "mw-portlet-interaction", 
+	"vector-menu": "vector-menu", 
+	"vector-menu-portal": "vector-menu-portal", 
+	"portal-": "portal ", 
+	"aria-labelledby": " p-interaction-label ", 
+	"role": " navigation ", 
+	"  	": "  	", 
+	"Content": "		"
+  }
+  ,
+  {
+	"Id": 306 ,
+	"Name": "h3" ,
+	"Kids": [ 307 ] ,
+	"id": "p-interaction-label", 
+	"Content": "			"
+  }
+  ,
+  {
+	"Id": 307 ,
+	"Name": "span" ,
+	"Kids": [ ] ,
+	"Content": "Contribute"
+  }
+  ,
+  {
+	"Id": 308 ,
+	"Name": "div" ,
+	"Kids": [ 309 ] ,
+	"class": " vector-menu-content ", 
+	"Content": "					"
+  }
+  ,
+  {
+	"Id": 309 ,
+	"Name": "ul" ,
+	"Kids": [ 310, 312, 314, 316, 318 ] ,
+	"class": " vector-menu-content-list ", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 310 ,
+	"Name": "li" ,
+	"Kids": [ 311 ] ,
+	"id": "n-help", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 311 ,
+	"Name": "a" ,
+	"Kids": [ ] ,
+	"href": "wiki Help:Contents", 
+	"title": " Guidance", 
+	"on": "on", 
+	"how": "how", 
+	"to": "to", 
+	"use": "use", 
+	"and": "and", 
+	"edit": "edit", 
+	"Wikipedia-": "Wikipedia ", 
+	"Content": "Help"
+  }
+  ,
+  {
+	"Id": 312 ,
+	"Name": "li" ,
+	"Kids": [ 313 ] ,
+	"id": "n-introduction", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 313 ,
+	"Name": "a" ,
+	"Kids": [ ] ,
+	"href": "wiki Help:Introduction", 
+	"title": " Learn", 
+	"how": "how", 
+	"to": "to", 
+	"edit": "edit", 
+	"Wikipedia-": "Wikipedia ", 
+	"Content": "Learn to edit"
+  }
+  ,
+  {
+	"Id": 314 ,
+	"Name": "li" ,
+	"Kids": [ 315 ] ,
+	"id": "n-portal", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 315 ,
+	"Name": "a" ,
+	"Kids": [ ] ,
+	"href": "wiki Wikipedia:Community_portal", 
+	"title": " The", 
+	"hub": "hub", 
+	"for": "for", 
+	"editors-": "editors ", 
+	"Content": "Community portal"
+  }
+  ,
+  {
+	"Id": 316 ,
+	"Name": "li" ,
+	"Kids": [ 317 ] ,
+	"id": "n-recentchanges", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 317 ,
+	"Name": "a" ,
+	"Kids": [ ] ,
+	"href": "wiki Special:RecentChanges", 
+	"title": " A", 
+	"list": "list", 
+	"of": "of", 
+	"recent": "recent", 
+	"changes": "changes", 
+	"to": "to", 
+	"Wikipedia": "Wikipedia", 
+	"[r]-": "[r] ", 
+	"accesskey": " r ", 
+	"Content": "Recent changes"
+  }
+  ,
+  {
+	"Id": 318 ,
+	"Name": "li" ,
+	"Kids": [ 319 ] ,
+	"id": "n-upload", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 319 ,
+	"Name": "a" ,
+	"Kids": [ ] ,
+	"href": "wiki Wikipedia:File_Upload_Wizard", 
+	"title": " Add", 
+	"images": "images", 
+	"or": "or", 
+	"other": "other", 
+	"media": "media", 
+	"for": "for", 
+	"use": "use", 
+	"on": "on", 
+	"Wikipedia-": "Wikipedia ", 
+	"Content": "Upload file"
+  }
+  ,
+  {
+	"Id": 320 ,
+	"Name": "nav" ,
+	"Kids": [ 321, 323 ] ,
+	"id": "p-tb", 
+	"class": " mw-portlet", 
+	"mw-portlet-tb": "mw-portlet-tb", 
+	"vector-menu": "vector-menu", 
+	"vector-menu-portal": "vector-menu-portal", 
+	"portal-": "portal ", 
+	"aria-labelledby": " p-tb-label ", 
+	"role": " navigation ", 
+	"  	": "  	", 
+	"Content": "		"
+  }
+  ,
+  {
+	"Id": 321 ,
+	"Name": "h3" ,
+	"Kids": [ 322 ] ,
+	"id": "p-tb-label", 
+	"Content": "			"
+  }
+  ,
+  {
+	"Id": 322 ,
+	"Name": "span" ,
+	"Kids": [ ] ,
+	"Content": "Tools"
+  }
+  ,
+  {
+	"Id": 323 ,
+	"Name": "div" ,
+	"Kids": [ 324 ] ,
+	"class": " vector-menu-content ", 
+	"Content": "					"
+  }
+  ,
+  {
+	"Id": 324 ,
+	"Name": "ul" ,
+	"Kids": [ 325, 327, 329, 331, 333, 335, 337, 339 ] ,
+	"class": " vector-menu-content-list ", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 325 ,
+	"Name": "li" ,
+	"Kids": [ 326 ] ,
+	"id": "t-whatlinkshere", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 326 ,
+	"Name": "a" ,
+	"Kids": [ ] ,
+	"href": "wiki Special:WhatLinksHere Rezon_the_Syrian", 
+	"title": " List", 
+	"of": "of", 
+	"all": "all", 
+	"English": "English", 
+	"Wikipedia": "Wikipedia", 
+	"pages": "pages", 
+	"containing": "containing", 
+	"links": "links", 
+	"to": "to", 
+	"this": "this", 
+	"page": "page", 
+	"[j]-": "[j] ", 
+	"accesskey": " j ", 
+	"Content": "What links here"
+  }
+  ,
+  {
+	"Id": 327 ,
+	"Name": "li" ,
+	"Kids": [ 328 ] ,
+	"id": "t-recentchangeslinked", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 328 ,
+	"Name": "a" ,
+	"Kids": [ ] ,
+	"href": "wiki Special:RecentChangesLinked Rezon_the_Syrian", 
+	"rel": " nofollow ", 
+	"title": " Recent", 
+	"changes": "changes", 
+	"in": "in", 
+	"pages": "pages", 
+	"linked": "linked", 
+	"from": "from", 
+	"this": "this", 
+	"page": "page", 
+	"[k]-": "[k] ", 
+	"accesskey": " k ", 
+	"Content": "Related changes"
+  }
+  ,
+  {
+	"Id": 329 ,
+	"Name": "li" ,
+	"Kids": [ 330 ] ,
+	"id": "t-upload", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 330 ,
+	"Name": "a" ,
+	"Kids": [ ] ,
+	"href": "wiki Wikipedia:File_Upload_Wizard", 
+	"title": " Upload", 
+	"files": "files", 
+	"[u]-": "[u] ", 
+	"accesskey": " u ", 
+	"Content": "Upload file"
+  }
+  ,
+  {
+	"Id": 331 ,
+	"Name": "li" ,
+	"Kids": [ 332 ] ,
+	"id": "t-specialpages", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 332 ,
+	"Name": "a" ,
+	"Kids": [ ] ,
+	"href": "wiki Special:SpecialPages", 
+	"title": " A", 
+	"list": "list", 
+	"of": "of", 
+	"all": "all", 
+	"special": "special", 
+	"pages": "pages", 
+	"[q]-": "[q] ", 
+	"accesskey": " q ", 
+	"Content": "Special pages"
+  }
+  ,
+  {
+	"Id": 333 ,
+	"Name": "li" ,
+	"Kids": [ 334 ] ,
+	"id": "t-permalink", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 334 ,
+	"Name": "a" ,
+	"Kids": [ ] ,
+	"href": "w index.php?title=Rezon_the_Syrian&amp;oldid=981612649", 
+	"title": " Permanent", 
+	"link": "link", 
+	"to": "to", 
+	"this": "this", 
+	"revision": "revision", 
+	"of": "of", 
+	"this": "this", 
+	"page-": "page ", 
+	"Content": "Permanent link"
+  }
+  ,
+  {
+	"Id": 335 ,
+	"Name": "li" ,
+	"Kids": [ 336 ] ,
+	"id": "t-info", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 336 ,
+	"Name": "a" ,
+	"Kids": [ ] ,
+	"href": "w index.php?title=Rezon_the_Syrian&amp;action=info", 
+	"title": " More", 
+	"information": "information", 
+	"about": "about", 
+	"this": "this", 
+	"page-": "page ", 
+	"Content": "Page information"
+  }
+  ,
+  {
+	"Id": 337 ,
+	"Name": "li" ,
+	"Kids": [ 338 ] ,
+	"id": "t-cite", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 338 ,
+	"Name": "a" ,
+	"Kids": [ ] ,
+	"href": "w index.php?title=Special:CiteThisPage&amp;page=Rezon_the_Syrian&amp;id=981612649&amp;wpFormIdentifier=titleform", 
+	"title": " Information", 
+	"on": "on", 
+	"how": "how", 
+	"to": "to", 
+	"cite": "cite", 
+	"this": "this", 
+	"page-": "page ", 
+	"Content": "Cite this page"
+  }
+  ,
+  {
+	"Id": 339 ,
+	"Name": "li" ,
+	"Kids": [ 340 ] ,
+	"id": "t-wikibase", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 340 ,
+	"Name": "a" ,
+	"Kids": [ ] ,
+	"href": "https:  www.wikidata.org wiki Special:EntityPage Q13589419", 
+	"title": " Structured", 
+	"data": "data", 
+	"on": "on", 
+	"this": "this", 
+	"page": "page", 
+	"hosted": "hosted", 
+	"by": "by", 
+	"Wikidata": "Wikidata", 
+	"[g]-": "[g] ", 
+	"accesskey": " g ", 
+	"Content": "Wikidata item"
+  }
+  ,
+  {
+	"Id": 341 ,
+	"Name": "nav" ,
+	"Kids": [ 342, 344 ] ,
+	"id": "p-coll-print_export", 
+	"class": " mw-portlet", 
+	"mw-portlet-coll-print_export": "mw-portlet-coll-print_export", 
+	"vector-menu": "vector-menu", 
+	"vector-menu-portal": "vector-menu-portal", 
+	"portal-": "portal ", 
+	"aria-labelledby": " p-coll-print_export-label ", 
+	"role": " navigation ", 
+	"  	": "  	", 
+	"Content": "		"
+  }
+  ,
+  {
+	"Id": 342 ,
+	"Name": "h3" ,
+	"Kids": [ 343 ] ,
+	"id": "p-coll-print_export-label", 
+	"Content": "			"
+  }
+  ,
+  {
+	"Id": 343 ,
+	"Name": "span" ,
+	"Kids": [ ] ,
+	"Content": "Print-export"
+  }
+  ,
+  {
+	"Id": 344 ,
+	"Name": "div" ,
+	"Kids": [ 345 ] ,
+	"class": " vector-menu-content ", 
+	"Content": "					"
+  }
+  ,
+  {
+	"Id": 345 ,
+	"Name": "ul" ,
+	"Kids": [ 346, 348 ] ,
+	"class": " vector-menu-content-list ", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 346 ,
+	"Name": "li" ,
+	"Kids": [ 347 ] ,
+	"id": "coll-download-as-rl", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 347 ,
+	"Name": "a" ,
+	"Kids": [ ] ,
+	"href": "w index.php?title=Special:DownloadAsPdf&amp;page=Rezon_the_Syrian&amp;action=show-download-screen", 
+	"title": " Download", 
+	"this": "this", 
+	"page": "page", 
+	"as": "as", 
+	"a": "a", 
+	"PDF": "PDF", 
+	"file-": "file ", 
+	"Content": "Download as PDF"
+  }
+  ,
+  {
+	"Id": 348 ,
+	"Name": "li" ,
+	"Kids": [ 349 ] ,
+	"id": "t-print", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 349 ,
+	"Name": "a" ,
+	"Kids": [ ] ,
+	"href": "w index.php?title=Rezon_the_Syrian&amp;printable=yes", 
+	"title": " Printable", 
+	"version": "version", 
+	"of": "of", 
+	"this": "this", 
+	"page": "page", 
+	"[p]-": "[p] ", 
+	"accesskey": " p ", 
+	"Content": "Printable version"
+  }
+  ,
+  {
+	"Id": 350 ,
+	"Name": "nav" ,
+	"Kids": [ 351, 353 ] ,
+	"id": "p-lang", 
+	"class": " mw-portlet", 
+	"mw-portlet-lang": "mw-portlet-lang", 
+	"vector-menu": "vector-menu", 
+	"vector-menu-portal": "vector-menu-portal", 
+	"portal-": "portal ", 
+	"aria-labelledby": " p-lang-label ", 
+	"role": " navigation ", 
+	"  	": "  	", 
+	"Content": "		"
+  }
+  ,
+  {
+	"Id": 351 ,
+	"Name": "h3" ,
+	"Kids": [ 352 ] ,
+	"id": "p-lang-label", 
+	"Content": "			"
+  }
+  ,
+  {
+	"Id": 352 ,
+	"Name": "span" ,
+	"Kids": [ ] ,
+	"Content": "Languages"
+  }
+  ,
+  {
+	"Id": 353 ,
+	"Name": "div" ,
+	"Kids": [ 354, 367 ] ,
+	"class": " vector-menu-content ", 
+	"Content": "					"
+  }
+  ,
+  {
+	"Id": 354 ,
+	"Name": "ul" ,
+	"Kids": [ 355, 357, 359, 361, 363, 365 ] ,
+	"class": " vector-menu-content-list ", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 355 ,
+	"Name": "li" ,
+	"Kids": [ 356 ] ,
+	"class": " interlanguage-link", 
+	"interwiki-id-": "interwiki-id ", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 356 ,
+	"Name": "a" ,
+	"Kids": [ ] ,
+	"href": "https:  id.wikipedia.org wiki Rezon", 
+	"title": " Rezon", 
+	"–": "–", 
+	"Indonesian-": "Indonesian ", 
+	"lang": " id ", 
+	"hreflang": " id ", 
+	"class": " interlanguage-link-target ", 
+	"Content": "Bahasa Indonesia"
+  }
+  ,
+  {
+	"Id": 357 ,
+	"Name": "li" ,
+	"Kids": [ 358 ] ,
+	"class": " interlanguage-link", 
+	"interwiki-he-": "interwiki-he ", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 358 ,
+	"Name": "a" ,
+	"Kids": [ ] ,
+	"href": "https:  he.wikipedia.org wiki %D7%A8%D7%96%D7%95%D7%9F_%D7%91%D7%9F_%D7%90%D7%9C%D7%99%D7%93%D7%A2", 
+	"title": " רזון", 
+	"בן": "בן", 
+	"אלידע": "אלידע", 
+	"–": "–", 
+	"Hebrew-": "Hebrew ", 
+	"lang": " he ", 
+	"hreflang": " he ", 
+	"class": " interlanguage-link-target ", 
+	"Content": "עברית"
+  }
+  ,
+  {
+	"Id": 359 ,
+	"Name": "li" ,
+	"Kids": [ 360 ] ,
+	"class": " interlanguage-link", 
+	"interwiki-pt-": "interwiki-pt ", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 360 ,
+	"Name": "a" ,
+	"Kids": [ ] ,
+	"href": "https:  pt.wikipedia.org wiki Rezom", 
+	"title": " Rezom", 
+	"–": "–", 
+	"Portuguese-": "Portuguese ", 
+	"lang": " pt ", 
+	"hreflang": " pt ", 
+	"class": " interlanguage-link-target ", 
+	"Content": "Português"
+  }
+  ,
+  {
+	"Id": 361 ,
+	"Name": "li" ,
+	"Kids": [ 362 ] ,
+	"class": " interlanguage-link", 
+	"interwiki-ru-": "interwiki-ru ", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 362 ,
+	"Name": "a" ,
+	"Kids": [ ] ,
+	"href": "https:  ru.wikipedia.org wiki %D0%A0%D0%B8%D0%B7%D0%BE%D0%BD_I", 
+	"title": " Ризон", 
+	"I": "I", 
+	"–": "–", 
+	"Russian-": "Russian ", 
+	"lang": " ru ", 
+	"hreflang": " ru ", 
+	"class": " interlanguage-link-target ", 
+	"Content": "Русский"
+  }
+  ,
+  {
+	"Id": 363 ,
+	"Name": "li" ,
+	"Kids": [ 364 ] ,
+	"class": " interlanguage-link", 
+	"interwiki-sv-": "interwiki-sv ", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 364 ,
+	"Name": "a" ,
+	"Kids": [ ] ,
+	"href": "https:  sv.wikipedia.org wiki Reson", 
+	"title": " Reson", 
+	"–": "–", 
+	"Swedish-": "Swedish ", 
+	"lang": " sv ", 
+	"hreflang": " sv ", 
+	"class": " interlanguage-link-target ", 
+	"Content": "Svenska"
+  }
+  ,
+  {
+	"Id": 365 ,
+	"Name": "li" ,
+	"Kids": [ 366 ] ,
+	"class": " interlanguage-link", 
+	"interwiki-zh-": "interwiki-zh ", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 366 ,
+	"Name": "a" ,
+	"Kids": [ ] ,
+	"href": "https:  zh.wikipedia.org wiki %E5%88%A9%E9%81%9C", 
+	"title": " 利遜", 
+	"–": "–", 
+	"Chinese-": "Chinese ", 
+	"lang": " zh ", 
+	"hreflang": " zh ", 
+	"class": " interlanguage-link-target ", 
+	"Content": "中文"
+  }
+  ,
+  {
+	"Id": 367 ,
+	"Name": "div" ,
+	"Kids": [ 368 ] ,
+	"class": " after-portlet", 
+	"after-portlet-lang-": "after-portlet-lang ", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 368 ,
+	"Name": "span" ,
+	"Kids": [ 369 ] ,
+	"class": " wb-langlinks-edit", 
+	"wb-langlinks-link-": "wb-langlinks-link ", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 369 ,
+	"Name": "a" ,
+	"Kids": [ ] ,
+	"href": "https:  www.wikidata.org wiki Special:EntityPage Q13589419#sitelinks-wikipedia", 
+	"title": " Edit", 
+	"interlanguage": "interlanguage", 
+	"links-": "links ", 
+	"class": " wbc-editpage ", 
+	"Content": "Edit links"
+  }
+  ,
+  {
+	"Id": 370 ,
+	"Name": "footer" ,
+	"Kids": [ 371, 380, 397, 404 ] ,
+	"id": "footer", 
+	"class": " mw-footer ", 
+	"role": " contentinfo ", 
+	"Content": "				"
+  }
+  ,
+  {
+	"Id": 371 ,
+	"Name": "ul" ,
+	"Kids": [ 372, 374 ] ,
+	"id": "footer-info", 
+	"Content": "		"
+  }
+  ,
+  {
+	"Id": 372 ,
+	"Name": "li" ,
+	"Kids": [ 373 ] ,
+	"id": "footer-info-lastmod", 
+	"Content": " This page was last edited on 3 October 2020, at 11:59."
+  }
+  ,
+  {
+	"Id": 373 ,
+	"Name": "span" ,
+	"Kids": [ ] ,
+	"class": " anonymous-show ", 
+	"Content": "&#160;(UTC)"
+  }
+  ,
+  {
+	"Id": 374 ,
+	"Name": "li" ,
+	"Kids": [ 375, 376, 377, 378, 379 ] ,
+	"id": "footer-info-copyright", 
+	"Content": "Text is available under the ;additional terms may apply.  By using this site, you agree to the  and . Wikipedia® is a registered trademark of the , a non-profit organization."
+  }
+  ,
+  {
+	"Id": 375 ,
+	"Name": "a" ,
+	"Kids": [ ] ,
+	"rel": " license ", 
+	"href": "en.wikipedia.org wiki Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License", 
+	"Content": "Creative Commons Attribution-ShareAlike License"
+  }
+  ,
+  {
+	"Id": 376 ,
+	"Name": "a" ,
+	"Kids": [ ] ,
+	"rel": " license ", 
+	"href": "creativecommons.org licenses by-sa 3.0", 
+	"style": " display:none; ", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 377 ,
+	"Name": "a" ,
+	"Kids": [ ] ,
+	"href": "foundation.wikimedia.org wiki Terms_of_Use", 
+	"Content": "Terms of Use"
+  }
+  ,
+  {
+	"Id": 378 ,
+	"Name": "a" ,
+	"Kids": [ ] ,
+	"href": "foundation.wikimedia.org wiki Privacy_policy", 
+	"Content": "Privacy Policy"
+  }
+  ,
+  {
+	"Id": 379 ,
+	"Name": "a" ,
+	"Kids": [ ] ,
+	"href": "www.wikimediafoundation.org", 
+	"Content": "Wikimedia Foundation, Inc."
+  }
+  ,
+  {
+	"Id": 380 ,
+	"Name": "ul" ,
+	"Kids": [ 381, 383, 385, 387, 389, 391, 393, 395 ] ,
+	"id": "footer-places", 
+	"Content": "								"
+  }
+  ,
+  {
+	"Id": 381 ,
+	"Name": "li" ,
+	"Kids": [ 382 ] ,
+	"id": "footer-places-privacy", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 382 ,
+	"Name": "a" ,
+	"Kids": [ ] ,
+	"href": "https:  foundation.wikimedia.org wiki Privacy_policy", 
+	"class": " extiw ", 
+	"title": " wmf:Privacy", 
+	"policy-": "policy ", 
+	"Content": "Privacy policy"
+  }
+  ,
+  {
+	"Id": 383 ,
+	"Name": "li" ,
+	"Kids": [ 384 ] ,
+	"id": "footer-places-about", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 384 ,
+	"Name": "a" ,
+	"Kids": [ ] ,
+	"href": "wiki Wikipedia:About", 
+	"title": " Wikipedia:About ", 
+	"Content": "About Wikipedia"
+  }
+  ,
+  {
+	"Id": 385 ,
+	"Name": "li" ,
+	"Kids": [ 386 ] ,
+	"id": "footer-places-disclaimer", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 386 ,
+	"Name": "a" ,
+	"Kids": [ ] ,
+	"href": "wiki Wikipedia:General_disclaimer", 
+	"title": " Wikipedia:General", 
+	"disclaimer-": "disclaimer ", 
+	"Content": "Disclaimers"
+  }
+  ,
+  {
+	"Id": 387 ,
+	"Name": "li" ,
+	"Kids": [ 388 ] ,
+	"id": "footer-places-contact", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 388 ,
+	"Name": "a" ,
+	"Kids": [ ] ,
+	"href": "en.wikipedia.org wiki Wikipedia:Contact_us", 
+	"Content": "Contact Wikipedia"
+  }
+  ,
+  {
+	"Id": 389 ,
+	"Name": "li" ,
+	"Kids": [ 390 ] ,
+	"id": "footer-places-mobileview", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 390 ,
+	"Name": "a" ,
+	"Kids": [ ] ,
+	"href": "en.m.wikipedia.org w index.php?title=Rezon_the_Syrian&amp;mobileaction=toggle_view_mobile", 
+	"class": " noprint", 
+	"stopMobileRedirectToggle-": "stopMobileRedirectToggle ", 
+	"Content": "Mobile view"
+  }
+  ,
+  {
+	"Id": 391 ,
+	"Name": "li" ,
+	"Kids": [ 392 ] ,
+	"id": "footer-places-developers", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 392 ,
+	"Name": "a" ,
+	"Kids": [ ] ,
+	"href": "https:  www.mediawiki.org wiki Special:MyLanguage How_to_contribute", 
+	"Content": "Developers"
+  }
+  ,
+  {
+	"Id": 393 ,
+	"Name": "li" ,
+	"Kids": [ 394 ] ,
+	"id": "footer-places-statslink", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 394 ,
+	"Name": "a" ,
+	"Kids": [ ] ,
+	"href": "https:  stats.wikimedia.org # en.wikipedia.org", 
+	"Content": "Statistics"
+  }
+  ,
+  {
+	"Id": 395 ,
+	"Name": "li" ,
+	"Kids": [ 396 ] ,
+	"id": "footer-places-cookiestatement", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 396 ,
+	"Name": "a" ,
+	"Kids": [ ] ,
+	"href": "https:  foundation.wikimedia.org wiki Cookie_statement", 
+	"Content": "Cookie statement"
+  }
+  ,
+  {
+	"Id": 397 ,
+	"Name": "ul" ,
+	"Kids": [ 398, 401 ] ,
+	"id": "footer-icons", 
+	"class": " noprint ", 
+	"Content": "		"
+  }
+  ,
+  {
+	"Id": 398 ,
+	"Name": "li" ,
+	"Kids": [ 399 ] ,
+	"id": "footer-copyrightico", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 399 ,
+	"Name": "a" ,
+	"Kids": [ 400 ] ,
+	"href": "https:  wikimediafoundation.org", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 400 ,
+	"Name": "img" ,
+	"Kids": [ ] ,
+	"src": "  static images footer wikimedia-button.png ", 
+	"srcset": "  static images footer wikimedia-button-1.5x.png", 
+	"1.5x,": "1.5x,", 
+	"-static-images-footer-wikimedia-button-2x.png": " static images footer wikimedia-button-2x.png", 
+	"2x-": "2x ", 
+	"width": " 88 ", 
+	"height": " 31 ", 
+	"alt": " Wikimedia", 
+	"Foundation-": "Foundation ", 
+	"loading": " lazy ", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 401 ,
+	"Name": "li" ,
+	"Kids": [ 402 ] ,
+	"id": "footer-poweredbyico", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 402 ,
+	"Name": "a" ,
+	"Kids": [ 403 ] ,
+	"href": "https:  www.mediawiki.org", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 403 ,
+	"Name": "img" ,
+	"Kids": [ ] ,
+	"src": "  static images footer poweredby_mediawiki_88x31.png ", 
+	"alt": " Powered", 
+	"by": "by", 
+	"MediaWiki-": "MediaWiki ", 
+	"srcset": "  static images footer poweredby_mediawiki_132x47.png", 
+	"1.5x,": "1.5x,", 
+	"-static-images-footer-poweredby_mediawiki_176x62.png": " static images footer poweredby_mediawiki_176x62.png", 
+	"2x-": "2x ", 
+	"width": " 88 ", 
+	"height": " 31 ", 
+	"loading": " lazy ", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 404 ,
+	"Name": "div" ,
+	"Kids": [ ] ,
+	"style": " clear:", 
+	"both;-": "both; ", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 405 ,
+	"Name": "script" ,
+	"Kids": [ ] ,
+	"Content": "(RLQ=window.RLQ||[]).push(function(){mw.config.set({-wgPageParseReport-:{-limitreport-:{-cputime-:-0.232-,-walltime-:-0.317-,-ppvisitednodes-:{-value-:1256,-limit-:1000000},-postexpandincludesize-:{-value-:7966,-limit-:2097152},-templateargumentsize-:{-value-:847,-limit-:2097152},-expansiondepth-:{-value-:9,-limit-:40},-expensivefunctioncount-:{-value-:1,-limit-:500},-unstrip-depth-:{-value-:1,-limit-:20},-unstrip-size-:{-value-:10624,-limit-:5000000},-entityaccesscount-:{-value-:0,-limit-:400},-timingprofile-:[-100.00%  290.341      1 -total-,- 31.29%   90.848      1 Template:Reflist-,- 27.06%   78.566      2 Template:Cite_book-,- 25.92%   75.245      1 Template:Infobox_royalty-,- 22.46%   65.204      1 Template:Short_description-,- 18.82%   54.647      1 Template:Infobox-,- 11.62%   33.752      1 Template:Pagetype-,- 11.05%   32.096      2 Template:Sfn-,-  8.07%   23.416      1 Template:Portal-,-  7.16%   20.801      6 Template:Main_other-]},-scribunto-:{-limitreport-timeusage-:{-value-:-0.128-,-limit-:-10.000-},-limitreport-memusage-:{-value-:4439343,-limit-:52428800},-limitreport-logs-:-anchor_id_list = table#1 {-n  [--CITEREFRonald_F._Youngblood2014--] = 1,-n  [--CITEREFTrevor_Bryce2012--] = 1,-n}-ntemplate_list = table#1 {-n  [--Cite book--] = 2,-n  [--Infobox royalty--] = 1,-n  [--Portal--] = 1,-n  [--Reflist--] = 1,-n  [--Sfn--] = 2,-n  [--Short description--] = 1,-n}-narticle_whitelist = table#1 {-n}-n-},-cachereport-:{-origin-:-mw1321-,-timestamp-:-20210115000153-,-ttl-:2592000,-transientcontent-:false}}});});"
+  }
+  ,
+  {
+	"Id": 406 ,
+	"Name": "script" ,
+	"Kids": [ ] ,
+	"type": " application ld+json ", 
+	"Content": "{-@context-:-https:----schema.org-,-@type-:-Article-,-name-:-Rezon the Syrian-,-url-:-https:----en.wikipedia.org--wiki--Rezon_the_Syrian-,-sameAs-:-http:----www.wikidata.org--entity--Q13589419-,-mainEntity-:-http:----www.wikidata.org--entity--Q13589419-,-author-:{-@type-:-Organization-,-name-:-Contributors to Wikimedia projects-},-publisher-:{-@type-:-Organization-,-name-:-Wikimedia Foundation, Inc.-,-logo-:{-@type-:-ImageObject-,-url-:-https:----www.wikimedia.org--static--images--wmf-hor-googpub.png-}},-datePublished-:-2010-11-03T15:10:41Z-,-dateModified-:-2020-10-03T11:59:22Z-,-headline-:-enemy of King Solomon mentioned in 1 Kings-}"
+  }
+  ,
+  {
+	"Id": 407 ,
+	"Name": "script" ,
+	"Kids": [ ] ,
+	"Content": "(RLQ=window.RLQ||[]).push(function(){mw.config.set({-wgBackendResponseTime-:133,-wgHostname-:-mw1325-});});"
+  }
+]

@@ -1,0 +1,29 @@
+T:
+
+Root is unique d satisfying  eqs( d.<"Name"> , "html" )..
+
+forall d in T: d0 is Child(d) where  and( inn( d0.<"Id"> , d.<"Kids"> ) , not( eqs( d0.<"Name"> , "html") ) ) ..
+
+-
+AG:
+
+
+forall d in Leaves:
+d.<id_def> = make_singleton_array( d.<"id"> )..
+
+
+forall d in T:
+d.<id_def> =  union( append_all_children_attributes( d.<"Id"> , <id_def> ) , make_singleton_array( d.<"id"> ) )..
+
+%
+
+
+forall d in Root:
+is_set( d.<id_def> )..
+
+
+
+
+
+
+ -      

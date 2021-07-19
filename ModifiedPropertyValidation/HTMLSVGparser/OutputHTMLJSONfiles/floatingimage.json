@@ -1,0 +1,86 @@
+[
+  {
+	"Id": 1 ,
+	"Name": "html" ,
+	"Kids": [ 2 ] ,
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 2 ,
+	"Name": "body" ,
+	"Kids": [ 3, 4, 6, 8, 10 ] ,
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 3 ,
+	"Name": "h2" ,
+	"Kids": [ ] ,
+	"Content": "Floating Images"
+  }
+  ,
+  {
+	"Id": 4 ,
+	"Name": "p" ,
+	"Kids": [ 5 ] ,
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 5 ,
+	"Name": "strong" ,
+	"Kids": [ ] ,
+	"Content": "Float the image to the right:"
+  }
+  ,
+  {
+	"Id": 6 ,
+	"Name": "p" ,
+	"Kids": [ 7 ] ,
+	"Content": "A paragraph with a floating image. A paragraph with a floating image. A paragraph with a floating image."
+  }
+  ,
+  {
+	"Id": 7 ,
+	"Name": "img" ,
+	"Kids": [ ] ,
+	"src": " https:  upload.wikimedia.org wikipedia commons 8 87 Smiley_Face.JPG ", 
+	"alt": " Smiley", 
+	"face-": "face ", 
+	"style": " float:right;width:42px;height:42px; ", 
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 8 ,
+	"Name": "p" ,
+	"Kids": [ 9 ] ,
+	"Content": ""
+  }
+  ,
+  {
+	"Id": 9 ,
+	"Name": "strong" ,
+	"Kids": [ ] ,
+	"Content": "Float the image to the left:"
+  }
+  ,
+  {
+	"Id": 10 ,
+	"Name": "p" ,
+	"Kids": [ 11 ] ,
+	"Content": "A paragraph with a floating image. A paragraph with a floating image. A paragraph with a floating image.  "
+  }
+  ,
+  {
+	"Id": 11 ,
+	"Name": "img" ,
+	"Kids": [ ] ,
+	"src": " https:  upload.wikimedia.org wikipedia commons 8 87 Smiley_Face.JPG ", 
+	"alt": " Smiley", 
+	"face-": "face ", 
+	"style": " float:left;width:42px;height:42px; ", 
+	"Content": ""
+  }
+]

@@ -1,0 +1,74 @@
+Keys used in spec: [ "Id" , "Kids" , "Name" ]
+
+Graph node count: 10
+
+All graph dictionaries:
+{
+  "Id": 1
+  "Kids": [ 2, 3, 4, 5, 6, 7, 8, 9, 10 ]
+  "Name": "svg"
+}
+{
+  "Id": 2
+  "Kids": [ ]
+  "Name": "path"
+}
+{
+  "Id": 3
+  "Kids": [ ]
+  "Name": "path"
+}
+{
+  "Id": 4
+  "Kids": [ ]
+  "Name": "path"
+}
+{
+  "Id": 5
+  "Kids": [ ]
+  "Name": "path"
+}
+{
+  "Id": 6
+  "Kids": [ ]
+  "Name": "path"
+}
+{
+  "Id": 7
+  "Kids": [ ]
+  "Name": "path"
+}
+{
+  "Id": 8
+  "Kids": [ ]
+  "Name": "path"
+}
+{
+  "Id": 9
+  "Kids": [ ]
+  "Name": "path"
+}
+{
+  "Id": 10
+  "Kids": [ ]
+  "Name": "path"
+}
+
+All source dictionaries:
+{
+  "Id": 1
+  "Kids": [ 2, 3, 4, 5, 6, 7, 8, 9, 10 ]
+  "Name": "svg"
+}
+
+The adjacency list of the graph is:
+1: [ 2 , 3 , 4 , 5 , 6 , 7 , 8 , 9 , 10 ]
+2: [ ]
+3: [ ]
+4: [ ]
+5: [ ]
+6: [ ]
+7: [ ]
+8: [ ]
+9: [ ]
+10: [ ]

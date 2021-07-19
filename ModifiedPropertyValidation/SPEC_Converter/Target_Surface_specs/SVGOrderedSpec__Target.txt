@@ -1,0 +1,18 @@
+Ordered Tree:
+
+Root is unique d satisfying d.<"Name"> = "svg" .
+
+forall d in Ordered Tree, d0 is ith Child(d) where  d0.<"Id"> in d.<"Kids">  and  d0.<"Name"> !=  "svg"  
+where i is indexn (d0 , d.<"Kids">).
+
+
+Ordered Tree Property:
+
+Title is d satisfying d.<"Name"> = "Title" .
+
+Specification Conditions: 
+
+forall d in Title,     ochild_field ( parent_field (d, <"Id">)  , 1 , <"Id"> ) = d.<"Id">.
+
+
+

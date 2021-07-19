@@ -1,0 +1,22 @@
+Tree:
+
+Root is unique d satisfying ins ( d.<"Name"> , [ "html" ] ).
+
+forall d in Tree, d0 is Child(d) where and( inn(d0.<"Id">, d.<"Kids"> ) , not(ins (d0.<"Name"> , [ "html" ] ) )   ).
+
+
+Attribute Grammar:
+
+forall d in Leaves,
+d.<id_def> = make_singleton_array ( d.<"id"> ) .
+
+forall d in Tree,
+d.<id_def> = append ( append_all_children_attributes (d.<"Id"> , <id_def> ) , make_singleton_array (d.<"id"> ) ).
+
+Specification Conditions:
+
+forall d in Root, isset( d.<id_def> ).
+
+
+
+

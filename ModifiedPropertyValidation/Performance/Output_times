@@ -1,0 +1,77 @@
+HTMLSpecHeadelmrefonce.bash
+floatingimage.json: 0.009
+testing.json: 0.004
+Wikipedia300lines.json: 5.758
+WikipediaAmericanRevolution.json: 3621.772
+WikipediaPokemon.json: 1382.264
+WikipediaPythagorousTheorem.json: 1876.095
+WikipediaVPG.json: 336.394
+
+HTMLSpecIDUnique.bash
+floatingimage.json: 0.007
+testing.json: 0.005
+Wikipedia300lines.json: 5.188
+WikipediaAmericanRevolution.json: 3267.285
+WikipediaPokemon.json: 1168.082
+WikipediaPythagorousTheorem.json: 1729.307
+WikipediaVPG.json: 340.685
+
+HTMLSpec_Pcannotnest.bash
+floatingimage.json: 0.007
+testing.json: 0.004
+Wikipedia300lines.json: 5.532
+WikipediaAmericanRevolution.json: 3255.459
+WikipediaPokemon.json: 1206.425
+WikipediaPythagorousTheorem.json: 1747.619
+WikipediaVPG.json: 328.118
+
+
+HTMLSpecTDandTR.bash
+floatingimage.json: 0.009
+testing.json: 0.004
+Wikipedia300lines.json: 4.827
+WikipediaAmericanRevolution.json: 3092.211
+WikipediaPokemon.json: 1152.234
+WikipediaPythagorousTheorem.json: 1677.748
+WikipediaVPG.json: 318.073
+
+PageTreeSpec.bash
+outputbikes.json: 0.004
+outputempty.json: 0.003
+outputnature.json: 0.007
+outputnature2.json: 0.007
+outputselfmadePDF.json: 0.003
+PDF100pgs.json: 0.378
+PDF200pgs.json: 4.626
+PDF200pgs2.json: 0.881
+PDF400pgs.json: 8.082
+PDF1000pgs.json: 26.238
+
+SVGOrderedSpec.bash
+acid.json: 0.011
+cartman.json: 0.006
+digitalCamera.json: 3.145
+gallardo.json: 25.221
+sansBold.json: 0.336
+steps.json: 0.117
+svg2009.json: 5.541
+
+SVGSpecRefsinDefs.bash
+acid.json: 0.012
+cartman.json: 0.005
+digitalCamera.json: 3.090
+gallardo.json: 25.244
+sansBold.json: 0.322
+steps.json: 0.115
+svg2009.json: 5.498
+
+SVGSpecUseCircularity.bash
+acid.json: 0.011
+cartman.json: 0.006
+digitalCamera.json: 3.112
+gallardo.json: 25.138
+sansBold.json: 0.320
+steps.json: 0.116
+svg2009.json: 5.511
+
+

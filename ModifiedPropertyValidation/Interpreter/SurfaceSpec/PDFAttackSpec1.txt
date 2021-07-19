@@ -1,0 +1,39 @@
+Graph:
+
+Source is d satisfying  True .
+
+forall d in Graph, d0 is Child(d) where False  .
+
+
+Semantic Definitions:
+
+XRef is d satisfying d.<"header.Type"> = "XRef" .  
+
+Certificate is d satisfying d.<"Reference.0 .TransformParams.Type"> = "TransformParams". 
+
+XRef_after_certification is d satisfying d.<"header.Type"> = "XRef" and d > d1
+where d1 in [ Certificate ]. 
+
+XRef_Certificate is d satisfying d.<"header.Type"> = "XRef" and (d <= d1) and (d > d2)
+where d1 in [ XRef_after_certification ]
+where d2 in [ Certificate] .
+
+Digital_Form is d satisfying d.<"header.Subtype"> = "Form" and d.<"header.Type"> = "XObject".
+
+Annotation is d satisfying d.<"Type"> = "Annot" . 
+
+
+Semantic Conditions:
+
+forall d1 in XRef_Certificate,
+forall d2 in Annotation,
+forall d3 in Certificate, 
+d3.<"Reference.0 .TransformParams.P"> < 3 implies d2 < d1.
+
+forall d1 in XRef_Certificate,
+forall d2 in Digital_Form,
+forall d3 in Certificate, 
+d3.<"Reference.0 .TransformParams.P"> < 2 implies d2 < d1.
+
+
+

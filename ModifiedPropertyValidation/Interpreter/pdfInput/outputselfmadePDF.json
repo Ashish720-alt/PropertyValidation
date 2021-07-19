@@ -1,0 +1,44 @@
+[
+  {
+    "Id": 0
+  , "obj": 1
+  , "gen": 0
+  , "Count": 1
+  , "Kids": [ 1 ]
+  , "Type":  "Pages" 
+  }
+,
+  {
+    "Id": 1
+  , "obj": 2
+  , "gen": 0
+  , "Contents": [ 3 ]
+  , "MediaBox": [ 0 , 0 , 612 , 792 ]
+  , "Parent": 0
+  , "Resources": 2
+  , "Type":  "Page" 
+  }
+,
+  {
+    "Id": 2
+  , "obj": 3
+  , "gen": 0
+  , "Font": { "F0": { "BaseFont": "Times-Italic" , "Subtype": "Type1" , "Type": "Font" } }
+  }
+,
+  {
+    "Id": 3
+  , "obj": 4
+  , "gen": 0
+  , "header": { "Length": 68 }
+  , "body": "MS4gMC4gMC4gMS4gNTAuIDcwMC4gY20gCkJUCiAgL0YwIDM2LiBUZiAKICAoSGVsbG8sIFdvcmxkISkgVGogCkVUIAo="
+  }
+,
+  {
+    "Id": 4
+  , "obj": 5
+  , "gen": 0
+  , "Pages": 0
+  , "Type":  "Catalog" 
+  }
+]

@@ -1,0 +1,34 @@
+T:
+
+Root is unique d satisfying  eqs( d.<"Name"> , "html" )..
+
+forall d in T: d0 is Child(d) where  and( inn( d0.<"Id"> , d.<"Kids"> ) , not( eqs( d0.<"Name"> , "html") ) ) ..
+
+-
+GP:
+
+TD is d satisfying eqs( d.<"Name"> , "TD" ) ..
+
+TR is d satisfying eqs( d.<"Name"> , "TR" ) ..
+
+TH is d satisfying eqs( d.<"Name"> , "TH" ) ..
+
+%
+
+
+forall d in TD:
+inn( TD.<"Id"> , TR.<"Kids"> )..
+
+forall d in TH:
+inn( TH.<"Id"> , TR.<"Kids"> )..
+
+
+forall d in TR:
+not( inn( TR.<"Id"> , TD.<"Kids"> ) )..
+
+forall d in TR:
+not( inn( TR.<"Id"> , TH.<"Kids"> ) )..
+
+
+
+ -          

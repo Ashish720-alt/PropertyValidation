@@ -1,0 +1,57 @@
+Graph node count: 2
+
+All graph nodes: 
+[ 0 , 1 ]
+
+All source nodes:
+[ 0 ]
+
+All leaf nodes:
+[ 1 ]
+
+The adjacency list of the graph is:
+0: [ 1 ]
+1: [ ]
+
+All attribute values: 
+0: 
+  {
+    is_MediaBox_defined : False
+    is_Resources_defined : False
+  }
+
+1: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+2: 
+  {
+  }
+
+3: 
+  {
+  }
+
+4: 
+  {
+  }
+
+Node Sets are: 
+{
+}
+
+Edge Sets are: 
+{
+}
+
+"forall d in Leaves:
+eqs( d.<is_Resources_defined> , True )  " holds true for this file.
+
+"forall d in Leaves:
+eqs( d.<is_MediaBox_defined> , True )  " holds true for this file.
+
+Time taken to compute graph: 0.000198 s.
+Time to resolve all properties: 0.00037 s.
+

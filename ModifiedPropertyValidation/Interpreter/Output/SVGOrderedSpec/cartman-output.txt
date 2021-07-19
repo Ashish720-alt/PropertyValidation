@@ -1,0 +1,79 @@
+Graph node count: 10
+
+All graph nodes: 
+[ 1 , 2 , 3 , 4 , 5 , 6 , 7 , 8 , 9 , 10 ]
+
+All source nodes:
+[ 1 ]
+
+All leaf nodes:
+[ 2 , 3 , 4 , 5 , 6 , 7 , 8 , 9 , 10 ]
+
+The adjacency list of the graph is:
+1: [ 10 ]
+2: [ ]
+3: [ ]
+4: [ ]
+5: [ ]
+6: [ ]
+7: [ ]
+8: [ ]
+9: [ ]
+10: [ ]
+
+All attribute values: 
+1: 
+  {
+  }
+
+2: 
+  {
+  }
+
+3: 
+  {
+  }
+
+4: 
+  {
+  }
+
+5: 
+  {
+  }
+
+6: 
+  {
+  }
+
+7: 
+  {
+  }
+
+8: 
+  {
+  }
+
+9: 
+  {
+  }
+
+10: 
+  {
+  }
+
+Node Sets are: 
+{
+  Title: [ ] 
+}
+
+Edge Sets are: 
+{
+}
+
+"forall d in Title:
+eqn( ochild_field( parent_field( d.<"Id"> , <"Id"> ) , 1 , <"Id"> ) , d.<"Id"> ) " holds true for this file.
+
+Time taken to compute graph: 0.002121 s.
+Time to resolve all properties: 0.000195 s.
+

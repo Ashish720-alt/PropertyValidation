@@ -1,0 +1,25 @@
+Tree:
+
+Root is unique d satisfying d.<"Name"> = "svg" .
+
+forall d in Tree, d0 is Child(d) where  d0.<"Id"> in d.<"Kids">  and d0.<"Name"> != "svg"  .
+
+
+Semantic Definitions:
+
+use is d satisfying d.<"Name"> = "use" .
+
+symbol is d satisfying d.<"Name"> = "symbol" .
+
+Ref_use is (d1, d2) satisfying d1.<"href"> = REFSTRING(d2.<"Id">)  
+where d1 in [ use ]
+where d2 in [ use , symbol ] .
+
+Semantic Conditions: 
+
+forall d3 in use,
+forall d4 in PATH(d3, Ref_use),
+not( ancestor(d3,d4) or d3 = d4 ) .
+
+
+

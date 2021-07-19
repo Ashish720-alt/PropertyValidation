@@ -1,0 +1,17 @@
+OT:
+
+Root is unique d satisfying ins ( d.<"Name"> , [ "svg" ] )..
+
+forall d in OT: d0 is ith Child(d) where and( inn(d0.<"Id">, d.<"Kids">) , not(ins (d0.<"Name"> , [ "svg" ] ) )   )
+where i is indexn(d0.<"Id">, d.<"Kids">)..
+
+
+OTP:
+
+Title is d satisfying eqs(d.<"Name"> , "Title" )..
+
+% 
+
+forall d in Title:    eqs( ochild_field ( parent_field(d.<"Id">, <"Id">)  , 1 , <"Id"> ) , d.<"Id">)..
+
+-     

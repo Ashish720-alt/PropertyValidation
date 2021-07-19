@@ -1,0 +1,25 @@
+Keys used in spec: [ "Id" , "Kids" , "Pages" , "Type" ]
+
+Graph node count: 2
+
+All graph dictionaries:
+{
+  "Id": 0
+  "Type": "Page"
+}
+{
+  "Id": 3
+  "Kids": [ 0 ]
+  "Type": "Pages"
+}
+
+All source dictionaries:
+{
+  "Id": 3
+  "Kids": [ 0 ]
+  "Type": "Pages"
+}
+
+The adjacency list of the graph is:
+0: [ ]
+3: [ 0 ]

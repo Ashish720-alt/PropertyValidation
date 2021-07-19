@@ -1,0 +1,76 @@
+Graph node count: 8
+
+All graph nodes: 
+[ 1 , 2 , 4 , 3 , 5 , 6 , 7 , 8 ]
+
+All source nodes:
+[ 1 ]
+
+All leaf nodes:
+[ 3 , 5 , 6 , 7 , 8 ]
+
+The adjacency list of the graph is:
+1: [ 2 , 4 ]
+2: [ 3 ]
+3: [ ]
+4: [ 5 , 6 , 7 , 8 ]
+5: [ ]
+6: [ ]
+7: [ ]
+8: [ ]
+
+All attribute values: 
+1: 
+  {
+    id_list : [ ]
+  }
+
+2: 
+  {
+    id_list : [ ]
+  }
+
+3: 
+  {
+    id_list : [ ]
+  }
+
+4: 
+  {
+    id_list : [ ]
+  }
+
+5: 
+  {
+    id_list : [ ]
+  }
+
+6: 
+  {
+    id_list : [ ]
+  }
+
+7: 
+  {
+    id_list : [ ]
+  }
+
+8: 
+  {
+    id_list : [ ]
+  }
+
+Node Sets are: 
+{
+}
+
+Edge Sets are: 
+{
+}
+
+"forall d in Root:
+isset( d.<id_list> )" holds true for this file.
+
+Time taken to compute graph: 0.002112 s.
+Time to resolve all properties: 0.001162 s.
+

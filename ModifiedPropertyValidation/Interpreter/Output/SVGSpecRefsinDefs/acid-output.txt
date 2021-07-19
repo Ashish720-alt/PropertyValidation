@@ -1,0 +1,98 @@
+Graph node count: 13
+
+All graph nodes: 
+[ 1 , 2 , 3 , 4 , 5 , 6 , 7 , 8 , 9 , 10 , 11 , 12 , 13 ]
+
+All source nodes:
+[ 1 ]
+
+All leaf nodes:
+[ 3 , 4 , 5 , 6 , 7 , 8 , 9 , 10 , 11 , 12 , 13 ]
+
+The adjacency list of the graph is:
+1: [ 2 ]
+2: [ 3 , 4 , 5 , 6 , 7 , 8 , 9 , 10 , 11 , 12 , 13 ]
+3: [ ]
+4: [ ]
+5: [ ]
+6: [ ]
+7: [ ]
+8: [ ]
+9: [ ]
+10: [ ]
+11: [ ]
+12: [ ]
+13: [ ]
+
+All attribute values: 
+1: 
+  {
+  }
+
+2: 
+  {
+  }
+
+3: 
+  {
+  }
+
+4: 
+  {
+  }
+
+5: 
+  {
+  }
+
+6: 
+  {
+  }
+
+7: 
+  {
+  }
+
+8: 
+  {
+  }
+
+9: 
+  {
+  }
+
+10: 
+  {
+  }
+
+11: 
+  {
+  }
+
+12: 
+  {
+  }
+
+13: 
+  {
+  }
+
+3327632759019806811: 
+  {
+  }
+
+Node Sets are: 
+{
+}
+
+Edge Sets are: 
+{
+  Ref: [ ] 
+}
+
+"forall (d1,d2) in Ref:
+and( eqn( parent_field( d1.<"Id"> , <"Id"> ) , grandparent_field( d2.<"Id"> , <"Id"> ) ) , eqs( parent_field( d2.<"Id"> , <"Name"> ) , "defs" ) )  " holds true for this file.
+
+Time taken to compute graph: 0.003268 s.
+Time to resolve all properties: 0.000121 s.
+

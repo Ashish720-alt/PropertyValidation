@@ -1,0 +1,31 @@
+Tree:
+
+Root is unique d satisfying  d.<"Id"> =  d1.<"Pages">  
+where unique d1 satisfies  d1.<"Type"> = "Catalog"  .
+
+forall d in Tree, d0 is Child(d) where d0.<"Id"> in d.<"Kids">  and  d0.<"Type"> in [ "Page", "Pages" ]   .
+
+
+Attributes:
+
+forall d in Root,
+d.<is_Resources_defined> = iskeydefined( d , "Resources" ).
+
+forall d in Root,
+d.<is_MediaBox_defined> = iskeydefined( d , "MediaBox" ).
+
+forall d1 in Tree,
+forall d2 in Child(d1),
+d2.<is_Resources_defined> =  d1.<is_Resources_defined> or iskeydefined(d2 , "Resources" )  .
+
+forall d1 in Tree,
+forall d2 in Child(d1),
+d2.<is_MediaBox_defined> =  d1.<is_MediaBox_defined> or iskeydefined(d2, "MediaBox" )  .
+
+Specification Conditions:  
+
+forall d in Leaves,   d.<is_Resources_defined> = True  .
+
+forall d in Leaves,   d.<is_MediaBox_defined> = True  .
+
+

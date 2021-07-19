@@ -1,0 +1,25 @@
+Tree:
+
+Root is unique d satisfying  d.<"Name"> = "html"  .
+
+forall d in Tree, d0 is Child(d) where  d0.<"Id"> in d.<"Kids">  and  d0.<"Name"> !=  "html" .
+
+
+Graph Property:
+
+TD is d satisfying d.<"Name"> = "TD" .
+
+TR is d satisfying d.<"Name"> = "TR" .
+
+TH is d satisfying d.<"Name"> = "TH" .
+
+Specification Conditions:
+
+forall d in TD,  TD.<"Id"> in TR.<"Kids">  .
+forall d in TH,  TH.<"Id"> in TR.<"Kids">  .
+
+forall d in TR, not( TR.<"Id"> in TD.<"Kids"> ).
+forall d in TR, not(  TR.<"Id"> in TH.<"Kids"> ).
+
+
+

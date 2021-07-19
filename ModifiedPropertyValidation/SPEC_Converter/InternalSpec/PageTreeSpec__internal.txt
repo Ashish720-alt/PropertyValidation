@@ -1,0 +1,35 @@
+T:
+
+Root is unique d satisfying eqn( d.<"Id">, d1.<"Pages"> ) 
+where unique d1 satisfies ins ( d1.<"Type"> , [ "Catalog" ] )..
+
+forall d in T: d0 is Child(d) where and(inn( d0.<"Id"> , d.<"Kids"> ), ins( d0.<"Type">, [ "Page", "Pages" ] )  )..
+
+-
+
+AG:
+
+forall d in Root:
+d.<is_Resources_defined> = iskeydefined( d.<"Id"> , <"Resources"> )..
+
+forall d in Root:
+d.<is_MediaBox_defined> = iskeydefined( d.<"Id"> , <"MediaBox"> )..
+
+forall d1 in T:
+forall d2 in Child(d1.<"Id">):
+d2.<is_Resources_defined> = or( d1.<is_Resources_defined> , iskeydefined(d2.<"Id">, <"Resources"> )  )..
+
+forall d1 in T:
+forall d2 in Child(d1.<"Id">):
+d2.<is_MediaBox_defined> = or( d1.<is_MediaBox_defined> , iskeydefined(d2.<"Id">, <"MediaBox"> )  )..
+
+%  
+
+forall d in Leaves:  eqs( d.<is_Resources_defined>, True ) ..
+
+forall d in Leaves:  eqs( d.<is_MediaBox_defined>, True ) ..
+
+ -           
+
+
+

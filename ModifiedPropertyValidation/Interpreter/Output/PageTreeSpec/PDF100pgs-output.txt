@@ -1,0 +1,2399 @@
+Graph node count: 144
+
+All graph nodes: 
+[ 481 , 477 , 478 , 479 , 480 , 9 , 37 , 71 , 93 , 118 , 137 , 156 , 175 , 200 , 219 , 238 , 257 , 276 , 298 , 317 , 339 , 358 , 386 , 405 , 424 , 1 , 11 , 14 , 20 , 26 , 29 , 32 , 39 , 48 , 51 , 54 , 63 , 66 , 73 , 76 , 79 , 85 , 88 , 91 , 95 , 98 , 101 , 107 , 110 , 116 , 120 , 123 , 126 , 129 , 132 , 135 , 139 , 142 , 145 , 148 , 151 , 154 , 158 , 161 , 164 , 167 , 170 , 173 , 177 , 180 , 183 , 186 , 189 , 198 , 202 , 205 , 208 , 211 , 214 , 217 , 221 , 224 , 227 , 230 , 233 , 236 , 240 , 243 , 246 , 249 , 252 , 255 , 259 , 262 , 265 , 268 , 271 , 274 , 278 , 281 , 284 , 290 , 293 , 296 , 300 , 303 , 306 , 309 , 312 , 315 , 319 , 322 , 325 , 328 , 331 , 334 , 341 , 344 , 347 , 350 , 353 , 356 , 360 , 363 , 369 , 375 , 378 , 381 , 388 , 391 , 394 , 397 , 400 , 403 , 407 , 410 , 413 , 416 , 419 , 422 , 426 , 429 , 432 , 435 ]
+
+All source nodes:
+[ 481 ]
+
+All leaf nodes:
+[ 1 , 11 , 14 , 20 , 26 , 29 , 32 , 39 , 48 , 51 , 54 , 63 , 66 , 73 , 76 , 79 , 85 , 88 , 91 , 95 , 98 , 101 , 107 , 110 , 116 , 120 , 123 , 126 , 129 , 132 , 135 , 139 , 142 , 145 , 148 , 151 , 154 , 158 , 161 , 164 , 167 , 170 , 173 , 177 , 180 , 183 , 186 , 189 , 198 , 202 , 205 , 208 , 211 , 214 , 217 , 221 , 224 , 227 , 230 , 233 , 236 , 240 , 243 , 246 , 249 , 252 , 255 , 259 , 262 , 265 , 268 , 271 , 274 , 278 , 281 , 284 , 290 , 293 , 296 , 300 , 303 , 306 , 309 , 312 , 315 , 319 , 322 , 325 , 328 , 331 , 334 , 341 , 344 , 347 , 350 , 353 , 356 , 360 , 363 , 369 , 375 , 378 , 381 , 388 , 391 , 394 , 397 , 400 , 403 , 407 , 410 , 413 , 416 , 419 , 422 , 426 , 429 , 432 , 435 ]
+
+The adjacency list of the graph is:
+1: [ ]
+9: [ 1 , 11 , 14 , 20 , 26 , 29 ]
+11: [ ]
+14: [ ]
+20: [ ]
+26: [ ]
+29: [ ]
+32: [ ]
+37: [ 32 , 39 , 48 , 51 , 54 , 63 ]
+39: [ ]
+48: [ ]
+51: [ ]
+54: [ ]
+63: [ ]
+66: [ ]
+71: [ 66 , 73 , 76 , 79 , 85 , 88 ]
+73: [ ]
+76: [ ]
+79: [ ]
+85: [ ]
+88: [ ]
+91: [ ]
+93: [ 91 , 95 , 98 , 101 , 107 , 110 ]
+95: [ ]
+98: [ ]
+101: [ ]
+107: [ ]
+110: [ ]
+116: [ ]
+118: [ 116 , 120 , 123 , 126 , 129 , 132 ]
+120: [ ]
+123: [ ]
+126: [ ]
+129: [ ]
+132: [ ]
+135: [ ]
+137: [ 135 , 139 , 142 , 145 , 148 , 151 ]
+139: [ ]
+142: [ ]
+145: [ ]
+148: [ ]
+151: [ ]
+154: [ ]
+156: [ 154 , 158 , 161 , 164 , 167 , 170 ]
+158: [ ]
+161: [ ]
+164: [ ]
+167: [ ]
+170: [ ]
+173: [ ]
+175: [ 173 , 177 , 180 , 183 , 186 , 189 ]
+177: [ ]
+180: [ ]
+183: [ ]
+186: [ ]
+189: [ ]
+198: [ ]
+200: [ 198 , 202 , 205 , 208 , 211 , 214 ]
+202: [ ]
+205: [ ]
+208: [ ]
+211: [ ]
+214: [ ]
+217: [ ]
+219: [ 217 , 221 , 224 , 227 , 230 , 233 ]
+221: [ ]
+224: [ ]
+227: [ ]
+230: [ ]
+233: [ ]
+236: [ ]
+238: [ 236 , 240 , 243 , 246 , 249 , 252 ]
+240: [ ]
+243: [ ]
+246: [ ]
+249: [ ]
+252: [ ]
+255: [ ]
+257: [ 255 , 259 , 262 , 265 , 268 , 271 ]
+259: [ ]
+262: [ ]
+265: [ ]
+268: [ ]
+271: [ ]
+274: [ ]
+276: [ 274 , 278 , 281 , 284 , 290 , 293 ]
+278: [ ]
+281: [ ]
+284: [ ]
+290: [ ]
+293: [ ]
+296: [ ]
+298: [ 296 , 300 , 303 , 306 , 309 , 312 ]
+300: [ ]
+303: [ ]
+306: [ ]
+309: [ ]
+312: [ ]
+315: [ ]
+317: [ 315 , 319 , 322 , 325 , 328 , 331 ]
+319: [ ]
+322: [ ]
+325: [ ]
+328: [ ]
+331: [ ]
+334: [ ]
+339: [ 334 , 341 , 344 , 347 , 350 , 353 ]
+341: [ ]
+344: [ ]
+347: [ ]
+350: [ ]
+353: [ ]
+356: [ ]
+358: [ 356 , 360 , 363 , 369 , 375 , 378 ]
+360: [ ]
+363: [ ]
+369: [ ]
+375: [ ]
+378: [ ]
+381: [ ]
+386: [ 381 , 388 , 391 , 394 , 397 , 400 ]
+388: [ ]
+391: [ ]
+394: [ ]
+397: [ ]
+400: [ ]
+403: [ ]
+405: [ 403 , 407 , 410 , 413 , 416 , 419 ]
+407: [ ]
+410: [ ]
+413: [ ]
+416: [ ]
+419: [ ]
+422: [ ]
+424: [ 422 , 426 , 429 , 432 , 435 ]
+426: [ ]
+429: [ ]
+432: [ ]
+435: [ ]
+477: [ 9 , 37 , 71 , 93 , 118 , 137 ]
+478: [ 156 , 175 , 200 , 219 , 238 , 257 ]
+479: [ 276 , 298 , 317 , 339 , 358 , 386 ]
+480: [ 405 , 424 ]
+481: [ 477 , 478 , 479 , 480 ]
+
+All attribute values: 
+0: 
+  {
+  }
+
+1: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+2: 
+  {
+  }
+
+3: 
+  {
+  }
+
+4: 
+  {
+  }
+
+5: 
+  {
+  }
+
+6: 
+  {
+  }
+
+7: 
+  {
+  }
+
+8: 
+  {
+  }
+
+9: 
+  {
+    is_MediaBox_defined : False
+    is_Resources_defined : False
+  }
+
+10: 
+  {
+  }
+
+11: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+12: 
+  {
+  }
+
+13: 
+  {
+  }
+
+14: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+15: 
+  {
+  }
+
+16: 
+  {
+  }
+
+17: 
+  {
+  }
+
+18: 
+  {
+  }
+
+19: 
+  {
+  }
+
+20: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+21: 
+  {
+  }
+
+22: 
+  {
+  }
+
+23: 
+  {
+  }
+
+24: 
+  {
+  }
+
+25: 
+  {
+  }
+
+26: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+27: 
+  {
+  }
+
+28: 
+  {
+  }
+
+29: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+30: 
+  {
+  }
+
+31: 
+  {
+  }
+
+32: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+33: 
+  {
+  }
+
+34: 
+  {
+  }
+
+35: 
+  {
+  }
+
+36: 
+  {
+  }
+
+37: 
+  {
+    is_MediaBox_defined : False
+    is_Resources_defined : False
+  }
+
+38: 
+  {
+  }
+
+39: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+40: 
+  {
+  }
+
+41: 
+  {
+  }
+
+42: 
+  {
+  }
+
+43: 
+  {
+  }
+
+44: 
+  {
+  }
+
+45: 
+  {
+  }
+
+46: 
+  {
+  }
+
+47: 
+  {
+  }
+
+48: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+49: 
+  {
+  }
+
+50: 
+  {
+  }
+
+51: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+52: 
+  {
+  }
+
+53: 
+  {
+  }
+
+54: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+55: 
+  {
+  }
+
+56: 
+  {
+  }
+
+57: 
+  {
+  }
+
+58: 
+  {
+  }
+
+59: 
+  {
+  }
+
+60: 
+  {
+  }
+
+61: 
+  {
+  }
+
+62: 
+  {
+  }
+
+63: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+64: 
+  {
+  }
+
+65: 
+  {
+  }
+
+66: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+67: 
+  {
+  }
+
+68: 
+  {
+  }
+
+69: 
+  {
+  }
+
+70: 
+  {
+  }
+
+71: 
+  {
+    is_MediaBox_defined : False
+    is_Resources_defined : False
+  }
+
+72: 
+  {
+  }
+
+73: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+74: 
+  {
+  }
+
+75: 
+  {
+  }
+
+76: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+77: 
+  {
+  }
+
+78: 
+  {
+  }
+
+79: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+80: 
+  {
+  }
+
+81: 
+  {
+  }
+
+82: 
+  {
+  }
+
+83: 
+  {
+  }
+
+84: 
+  {
+  }
+
+85: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+86: 
+  {
+  }
+
+87: 
+  {
+  }
+
+88: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+89: 
+  {
+  }
+
+90: 
+  {
+  }
+
+91: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+92: 
+  {
+  }
+
+93: 
+  {
+    is_MediaBox_defined : False
+    is_Resources_defined : False
+  }
+
+94: 
+  {
+  }
+
+95: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+96: 
+  {
+  }
+
+97: 
+  {
+  }
+
+98: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+99: 
+  {
+  }
+
+100: 
+  {
+  }
+
+101: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+102: 
+  {
+  }
+
+103: 
+  {
+  }
+
+104: 
+  {
+  }
+
+105: 
+  {
+  }
+
+106: 
+  {
+  }
+
+107: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+108: 
+  {
+  }
+
+109: 
+  {
+  }
+
+110: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+111: 
+  {
+  }
+
+112: 
+  {
+  }
+
+113: 
+  {
+  }
+
+114: 
+  {
+  }
+
+115: 
+  {
+  }
+
+116: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+117: 
+  {
+  }
+
+118: 
+  {
+    is_MediaBox_defined : False
+    is_Resources_defined : False
+  }
+
+119: 
+  {
+  }
+
+120: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+121: 
+  {
+  }
+
+122: 
+  {
+  }
+
+123: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+124: 
+  {
+  }
+
+125: 
+  {
+  }
+
+126: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+127: 
+  {
+  }
+
+128: 
+  {
+  }
+
+129: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+130: 
+  {
+  }
+
+131: 
+  {
+  }
+
+132: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+133: 
+  {
+  }
+
+134: 
+  {
+  }
+
+135: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+136: 
+  {
+  }
+
+137: 
+  {
+    is_MediaBox_defined : False
+    is_Resources_defined : False
+  }
+
+138: 
+  {
+  }
+
+139: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+140: 
+  {
+  }
+
+141: 
+  {
+  }
+
+142: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+143: 
+  {
+  }
+
+144: 
+  {
+  }
+
+145: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+146: 
+  {
+  }
+
+147: 
+  {
+  }
+
+148: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+149: 
+  {
+  }
+
+150: 
+  {
+  }
+
+151: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+152: 
+  {
+  }
+
+153: 
+  {
+  }
+
+154: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+155: 
+  {
+  }
+
+156: 
+  {
+    is_MediaBox_defined : False
+    is_Resources_defined : False
+  }
+
+157: 
+  {
+  }
+
+158: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+159: 
+  {
+  }
+
+160: 
+  {
+  }
+
+161: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+162: 
+  {
+  }
+
+163: 
+  {
+  }
+
+164: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+165: 
+  {
+  }
+
+166: 
+  {
+  }
+
+167: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+168: 
+  {
+  }
+
+169: 
+  {
+  }
+
+170: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+171: 
+  {
+  }
+
+172: 
+  {
+  }
+
+173: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+174: 
+  {
+  }
+
+175: 
+  {
+    is_MediaBox_defined : False
+    is_Resources_defined : False
+  }
+
+176: 
+  {
+  }
+
+177: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+178: 
+  {
+  }
+
+179: 
+  {
+  }
+
+180: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+181: 
+  {
+  }
+
+182: 
+  {
+  }
+
+183: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+184: 
+  {
+  }
+
+185: 
+  {
+  }
+
+186: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+187: 
+  {
+  }
+
+188: 
+  {
+  }
+
+189: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+190: 
+  {
+  }
+
+191: 
+  {
+  }
+
+192: 
+  {
+  }
+
+193: 
+  {
+  }
+
+194: 
+  {
+  }
+
+195: 
+  {
+  }
+
+196: 
+  {
+  }
+
+197: 
+  {
+  }
+
+198: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+199: 
+  {
+  }
+
+200: 
+  {
+    is_MediaBox_defined : False
+    is_Resources_defined : False
+  }
+
+201: 
+  {
+  }
+
+202: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+203: 
+  {
+  }
+
+204: 
+  {
+  }
+
+205: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+206: 
+  {
+  }
+
+207: 
+  {
+  }
+
+208: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+209: 
+  {
+  }
+
+210: 
+  {
+  }
+
+211: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+212: 
+  {
+  }
+
+213: 
+  {
+  }
+
+214: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+215: 
+  {
+  }
+
+216: 
+  {
+  }
+
+217: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+218: 
+  {
+  }
+
+219: 
+  {
+    is_MediaBox_defined : False
+    is_Resources_defined : False
+  }
+
+220: 
+  {
+  }
+
+221: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+222: 
+  {
+  }
+
+223: 
+  {
+  }
+
+224: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+225: 
+  {
+  }
+
+226: 
+  {
+  }
+
+227: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+228: 
+  {
+  }
+
+229: 
+  {
+  }
+
+230: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+231: 
+  {
+  }
+
+232: 
+  {
+  }
+
+233: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+234: 
+  {
+  }
+
+235: 
+  {
+  }
+
+236: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+237: 
+  {
+  }
+
+238: 
+  {
+    is_MediaBox_defined : False
+    is_Resources_defined : False
+  }
+
+239: 
+  {
+  }
+
+240: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+241: 
+  {
+  }
+
+242: 
+  {
+  }
+
+243: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+244: 
+  {
+  }
+
+245: 
+  {
+  }
+
+246: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+247: 
+  {
+  }
+
+248: 
+  {
+  }
+
+249: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+250: 
+  {
+  }
+
+251: 
+  {
+  }
+
+252: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+253: 
+  {
+  }
+
+254: 
+  {
+  }
+
+255: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+256: 
+  {
+  }
+
+257: 
+  {
+    is_MediaBox_defined : False
+    is_Resources_defined : False
+  }
+
+258: 
+  {
+  }
+
+259: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+260: 
+  {
+  }
+
+261: 
+  {
+  }
+
+262: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+263: 
+  {
+  }
+
+264: 
+  {
+  }
+
+265: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+266: 
+  {
+  }
+
+267: 
+  {
+  }
+
+268: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+269: 
+  {
+  }
+
+270: 
+  {
+  }
+
+271: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+272: 
+  {
+  }
+
+273: 
+  {
+  }
+
+274: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+275: 
+  {
+  }
+
+276: 
+  {
+    is_MediaBox_defined : False
+    is_Resources_defined : False
+  }
+
+277: 
+  {
+  }
+
+278: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+279: 
+  {
+  }
+
+280: 
+  {
+  }
+
+281: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+282: 
+  {
+  }
+
+283: 
+  {
+  }
+
+284: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+285: 
+  {
+  }
+
+286: 
+  {
+  }
+
+287: 
+  {
+  }
+
+288: 
+  {
+  }
+
+289: 
+  {
+  }
+
+290: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+291: 
+  {
+  }
+
+292: 
+  {
+  }
+
+293: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+294: 
+  {
+  }
+
+295: 
+  {
+  }
+
+296: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+297: 
+  {
+  }
+
+298: 
+  {
+    is_MediaBox_defined : False
+    is_Resources_defined : False
+  }
+
+299: 
+  {
+  }
+
+300: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+301: 
+  {
+  }
+
+302: 
+  {
+  }
+
+303: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+304: 
+  {
+  }
+
+305: 
+  {
+  }
+
+306: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+307: 
+  {
+  }
+
+308: 
+  {
+  }
+
+309: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+310: 
+  {
+  }
+
+311: 
+  {
+  }
+
+312: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+313: 
+  {
+  }
+
+314: 
+  {
+  }
+
+315: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+316: 
+  {
+  }
+
+317: 
+  {
+    is_MediaBox_defined : False
+    is_Resources_defined : False
+  }
+
+318: 
+  {
+  }
+
+319: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+320: 
+  {
+  }
+
+321: 
+  {
+  }
+
+322: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+323: 
+  {
+  }
+
+324: 
+  {
+  }
+
+325: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+326: 
+  {
+  }
+
+327: 
+  {
+  }
+
+328: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+329: 
+  {
+  }
+
+330: 
+  {
+  }
+
+331: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+332: 
+  {
+  }
+
+333: 
+  {
+  }
+
+334: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+335: 
+  {
+  }
+
+336: 
+  {
+  }
+
+337: 
+  {
+  }
+
+338: 
+  {
+  }
+
+339: 
+  {
+    is_MediaBox_defined : False
+    is_Resources_defined : False
+  }
+
+340: 
+  {
+  }
+
+341: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+342: 
+  {
+  }
+
+343: 
+  {
+  }
+
+344: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+345: 
+  {
+  }
+
+346: 
+  {
+  }
+
+347: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+348: 
+  {
+  }
+
+349: 
+  {
+  }
+
+350: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+351: 
+  {
+  }
+
+352: 
+  {
+  }
+
+353: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+354: 
+  {
+  }
+
+355: 
+  {
+  }
+
+356: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+357: 
+  {
+  }
+
+358: 
+  {
+    is_MediaBox_defined : False
+    is_Resources_defined : False
+  }
+
+359: 
+  {
+  }
+
+360: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+361: 
+  {
+  }
+
+362: 
+  {
+  }
+
+363: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+364: 
+  {
+  }
+
+365: 
+  {
+  }
+
+366: 
+  {
+  }
+
+367: 
+  {
+  }
+
+368: 
+  {
+  }
+
+369: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+370: 
+  {
+  }
+
+371: 
+  {
+  }
+
+372: 
+  {
+  }
+
+373: 
+  {
+  }
+
+374: 
+  {
+  }
+
+375: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+376: 
+  {
+  }
+
+377: 
+  {
+  }
+
+378: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+379: 
+  {
+  }
+
+380: 
+  {
+  }
+
+381: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+382: 
+  {
+  }
+
+383: 
+  {
+  }
+
+384: 
+  {
+  }
+
+385: 
+  {
+  }
+
+386: 
+  {
+    is_MediaBox_defined : False
+    is_Resources_defined : False
+  }
+
+387: 
+  {
+  }
+
+388: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+389: 
+  {
+  }
+
+390: 
+  {
+  }
+
+391: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+392: 
+  {
+  }
+
+393: 
+  {
+  }
+
+394: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+395: 
+  {
+  }
+
+396: 
+  {
+  }
+
+397: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+398: 
+  {
+  }
+
+399: 
+  {
+  }
+
+400: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+401: 
+  {
+  }
+
+402: 
+  {
+  }
+
+403: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+404: 
+  {
+  }
+
+405: 
+  {
+    is_MediaBox_defined : False
+    is_Resources_defined : False
+  }
+
+406: 
+  {
+  }
+
+407: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+408: 
+  {
+  }
+
+409: 
+  {
+  }
+
+410: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+411: 
+  {
+  }
+
+412: 
+  {
+  }
+
+413: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+414: 
+  {
+  }
+
+415: 
+  {
+  }
+
+416: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+417: 
+  {
+  }
+
+418: 
+  {
+  }
+
+419: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+420: 
+  {
+  }
+
+421: 
+  {
+  }
+
+422: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+423: 
+  {
+  }
+
+424: 
+  {
+    is_MediaBox_defined : False
+    is_Resources_defined : False
+  }
+
+425: 
+  {
+  }
+
+426: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+427: 
+  {
+  }
+
+428: 
+  {
+  }
+
+429: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+430: 
+  {
+  }
+
+431: 
+  {
+  }
+
+432: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+433: 
+  {
+  }
+
+434: 
+  {
+  }
+
+435: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+436: 
+  {
+  }
+
+437: 
+  {
+  }
+
+438: 
+  {
+  }
+
+439: 
+  {
+  }
+
+440: 
+  {
+  }
+
+441: 
+  {
+  }
+
+442: 
+  {
+  }
+
+443: 
+  {
+  }
+
+444: 
+  {
+  }
+
+445: 
+  {
+  }
+
+446: 
+  {
+  }
+
+447: 
+  {
+  }
+
+448: 
+  {
+  }
+
+449: 
+  {
+  }
+
+450: 
+  {
+  }
+
+451: 
+  {
+  }
+
+452: 
+  {
+  }
+
+453: 
+  {
+  }
+
+454: 
+  {
+  }
+
+455: 
+  {
+  }
+
+456: 
+  {
+  }
+
+457: 
+  {
+  }
+
+458: 
+  {
+  }
+
+459: 
+  {
+  }
+
+460: 
+  {
+  }
+
+461: 
+  {
+  }
+
+462: 
+  {
+  }
+
+463: 
+  {
+  }
+
+464: 
+  {
+  }
+
+465: 
+  {
+  }
+
+466: 
+  {
+  }
+
+467: 
+  {
+  }
+
+468: 
+  {
+  }
+
+469: 
+  {
+  }
+
+470: 
+  {
+  }
+
+471: 
+  {
+  }
+
+472: 
+  {
+  }
+
+473: 
+  {
+  }
+
+474: 
+  {
+  }
+
+475: 
+  {
+  }
+
+476: 
+  {
+  }
+
+477: 
+  {
+    is_MediaBox_defined : False
+    is_Resources_defined : False
+  }
+
+478: 
+  {
+    is_MediaBox_defined : False
+    is_Resources_defined : False
+  }
+
+479: 
+  {
+    is_MediaBox_defined : False
+    is_Resources_defined : False
+  }
+
+480: 
+  {
+    is_MediaBox_defined : False
+    is_Resources_defined : False
+  }
+
+481: 
+  {
+    is_MediaBox_defined : False
+    is_Resources_defined : False
+  }
+
+482: 
+  {
+  }
+
+483: 
+  {
+  }
+
+Node Sets are: 
+{
+}
+
+Edge Sets are: 
+{
+}
+
+"forall d in Leaves:
+eqs( d.<is_Resources_defined> , True )  " holds true for this file.
+
+"forall d in Leaves:
+eqs( d.<is_MediaBox_defined> , True )  " holds true for this file.
+
+Time taken to compute graph: 0.192145 s.
+Time to resolve all properties: 0.02287 s.
+

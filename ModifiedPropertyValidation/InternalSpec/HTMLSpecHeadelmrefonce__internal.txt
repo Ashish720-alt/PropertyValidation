@@ -1,0 +1,24 @@
+T:
+
+Root is unique d satisfying eqs ( d.<"Name"> ,  "html"  )..
+
+forall d in T: d0 is Child(d) where and( inn(d0.<"Id">, d.<"Kids"> ) , not(ins (d0.<"Name"> , [ "html" ] ) )   )..
+
+-
+
+GP:
+
+Head is d satisfying eqs(d.<"Name"> , "head" )..
+
+Ref is (d1, d2) satisfying eqs(d1.<"href">, REFSTRING(d2.<"id">)  )
+where d1 in [ T ]
+where d2 in [ T ] ..
+
+%
+
+forall d1 in Head:
+forall (d2, d3) in Ref:
+forall (d4, d5) in Ref:
+and( eqs(d3.<"Id">, d5.<"Id">)  , implies( inn(d3.<"Id">, PATH(d1.<"Id">, T)) ,  eqs(d2.<"Id">, d4.<"Id">))  )..
+
+-

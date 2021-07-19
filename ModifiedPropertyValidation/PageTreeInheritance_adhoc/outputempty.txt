@@ -1,0 +1,108 @@
+Up to date
+[ { obj: 1
+  , gen: 0
+  , value:
+      { $dict:
+        { Contents: { $ref: { obj: 2, gen: 0 } }
+        , Group:
+            { $dict:
+              { CS: { $name: "DeviceRGB" }
+              , I: true
+              , S: { $name: "Transparency" }
+              }
+            }
+        , MediaBox:
+            [ 0
+            , 0
+            , 612
+            , 792
+            ]
+        , Parent: { $ref: { obj: 4, gen: 0 } }
+        , Resources: { $ref: { obj: 6, gen: 0 } }
+        , Type: { $name: "Page" }
+        }
+      }
+  }
+, { obj: 2
+  , gen: 0
+  , stream:
+      { header:
+          { $dict:
+            { Filter: { $name: "FlateDecode" }
+            , Length: { $ref: { obj: 3, gen: 0 } }
+            }
+          }
+      , body: "MC4xIHcKcSAwIDAgNjEyIDc5MiByZQpXKiBuClEg"
+      }
+  }
+, { obj: 3
+  , gen: 0
+  , value: 36
+  }
+, { obj: 4
+  , gen: 0
+  , value:
+      { $dict:
+        { Count: 1
+        , Kids:
+            [ { $ref: { obj: 1, gen: 0 } }
+            ]
+        , MediaBox:
+            [ 0
+            , 0
+            , 612
+            , 792
+            ]
+        , Resources: { $ref: { obj: 6, gen: 0 } }
+        , Type: { $name: "Pages" }
+        }
+      }
+  }
+, { obj: 5
+  , gen: 0
+  , value:
+      { $dict:
+        {}
+      }
+  }
+, { obj: 6
+  , gen: 0
+  , value:
+      { $dict:
+        { Font: { $ref: { obj: 5, gen: 0 } }
+        , ProcSet:
+            [ { $name: "PDF" }
+            , { $name: "Text" }
+            ]
+        }
+      }
+  }
+, { obj: 7
+  , gen: 0
+  , value:
+      { $dict:
+        { Lang: "en-US"
+        , OpenAction:
+            [ { $ref: { obj: 1, gen: 0 } }
+            , { $name: "XYZ" }
+            , null
+            , null
+            , 0
+            ]
+        , Pages: { $ref: { obj: 4, gen: 0 } }
+        , Type: { $name: "Catalog" }
+        }
+      }
+  }
+, { obj: 8
+  , gen: 0
+  , value:
+      { $dict:
+        { CreationDate: "D:20201218162631-05'00'"
+        , Creator: "\254\255\NULW\NULr\NULi\NULt\NULe\NULr"
+        , Producer:
+            "\254\255\NULL\NULi\NULb\NULr\NULe\NULO\NULf\NULf\NULi\NULc\NULe\NUL \NUL5\NUL.\NUL1"
+        }
+      }
+  }
+]

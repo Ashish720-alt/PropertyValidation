@@ -1,0 +1,231 @@
+Graph node count: 4
+
+All graph nodes: 
+[ 17 , 0 , 4 , 8 ]
+
+All source nodes:
+[ 17 ]
+
+All leaf nodes:
+[ 0 , 4 , 8 ]
+
+The adjacency list of the graph is:
+0: [ ]
+4: [ ]
+8: [ ]
+17: [ 0 , 4 , 8 ]
+
+All attribute values: 
+0: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+1: 
+  {
+  }
+
+2: 
+  {
+  }
+
+3: 
+  {
+  }
+
+4: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+5: 
+  {
+  }
+
+6: 
+  {
+  }
+
+7: 
+  {
+  }
+
+8: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+9: 
+  {
+  }
+
+10: 
+  {
+  }
+
+11: 
+  {
+  }
+
+12: 
+  {
+  }
+
+13: 
+  {
+  }
+
+14: 
+  {
+  }
+
+15: 
+  {
+  }
+
+16: 
+  {
+  }
+
+17: 
+  {
+    is_MediaBox_defined : True
+    is_Resources_defined : True
+  }
+
+18: 
+  {
+  }
+
+19: 
+  {
+  }
+
+20: 
+  {
+  }
+
+21: 
+  {
+  }
+
+22: 
+  {
+  }
+
+23: 
+  {
+  }
+
+24: 
+  {
+  }
+
+25: 
+  {
+  }
+
+26: 
+  {
+  }
+
+27: 
+  {
+  }
+
+28: 
+  {
+  }
+
+29: 
+  {
+  }
+
+30: 
+  {
+  }
+
+31: 
+  {
+  }
+
+32: 
+  {
+  }
+
+33: 
+  {
+  }
+
+34: 
+  {
+  }
+
+35: 
+  {
+  }
+
+36: 
+  {
+  }
+
+37: 
+  {
+  }
+
+38: 
+  {
+  }
+
+39: 
+  {
+  }
+
+40: 
+  {
+  }
+
+41: 
+  {
+  }
+
+42: 
+  {
+  }
+
+43: 
+  {
+  }
+
+44: 
+  {
+  }
+
+45: 
+  {
+  }
+
+46: 
+  {
+  }
+
+Node Sets are: 
+{
+}
+
+Edge Sets are: 
+{
+}
+
+"forall d in Leaves:
+eqs( d.<is_Resources_defined> , True )  " holds true for this file.
+
+"forall d in Leaves:
+eqs( d.<is_MediaBox_defined> , True )  " holds true for this file.
+
+Time taken to compute graph: 0.001101 s.
+Time to resolve all properties: 0.00079 s.
+

@@ -1,0 +1,21 @@
+T:
+
+Root is unique d satisfying ins ( d.<"Name"> , [ "svg" ] )..
+
+forall d in T: d0 is Child(d) where and( inn(d0.<"Id">, d.<"Kids"> ) , not(ins (d0.<"Name"> , [ "svg" ] ) )   )..
+
+-
+
+GP:
+
+Ref is (d1, d2) satisfying eqs(d1.<"href">, REFSTRING(d2.<"Id">)  )
+where d1 in [ T ]
+where d2 in [ T ] ..
+
+%
+
+forall (d1,d2) in Ref:
+and( eqs( parent_field(d1.<"Id"> , <"Id">), grandparent_field( d2.<"Id">, <"Id"> ) ) , eqs( parent_field(d1.<"Id">, <"Name">) , "defs" ) )
+..
+
+-

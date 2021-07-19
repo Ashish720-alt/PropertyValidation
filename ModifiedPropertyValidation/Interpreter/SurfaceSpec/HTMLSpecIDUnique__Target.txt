@@ -1,0 +1,24 @@
+Tree:
+
+Root is unique d satisfying  d.<"Name"> = "html"  .
+
+forall d in Tree, d0 is Child(d) where  d0.<"Id"> in d.<"Kids">  and  d0.<"Name"> !=  "cite" .
+
+
+Semantic Definitions:
+
+forall d in Leaves,
+d.<id_list> = make_singleton_array( d.<"id"> ) .
+
+forall d in Tree,
+d.<id_list> =  append_all_children_attributes(d , <id_list> )  union  make_singleton_array(d.<"id"> ) .
+
+Semantic Conditions:
+
+forall d in Root, isset( d.<id_list> ).
+
+
+
+
+
+

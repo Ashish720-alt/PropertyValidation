@@ -1,0 +1,20 @@
+Tree:
+
+Root is unique d satisfying d.<"Name"> = "svg" .
+
+forall d in Tree, d0 is Child(d) where  d0.<"Id"> in d.<"Kids">  and d0.<"Name"> != "svg"  .
+
+
+Graph Property:
+
+Ref is (d1, d2) satisfying d1.<"href"> = REFSTRING(d2.<"Id">)  
+where d1 in [ Tree ]
+where d2 in [ Tree ] .
+
+Specification Conditions: 
+
+forall (d1,d2) in Ref,
+eqn( parent_field(d1 , <"Id">) , grandparent_field( d2, <"Id"> ))  and  parent_field(d1, <"Name">) = "defs"  .
+
+
+

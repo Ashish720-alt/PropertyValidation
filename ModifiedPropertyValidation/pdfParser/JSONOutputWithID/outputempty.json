@@ -1,0 +1,73 @@
+[
+  {
+    "Id": 0
+  , "obj": 1
+  , "gen": 0
+  , "Contents": 1
+  , "Group": { "CS": "DeviceRGB" , "I": "true" , "S": "Transparency" }
+  , "MediaBox": [ 0 , 0 , 612 , 792 ]
+  , "Parent": 3
+  , "Resources": 5
+  , "Type":  "Page" 
+  }
+,
+  {
+    "Id": 1
+  , "obj": 2
+  , "gen": 0
+  , "header": { "Filter": "FlateDecode" , "Length": 2 }
+  , "body": "MC4xIHcKcSAwIDAgNjEyIDc5MiByZQpXKiBuClEg"
+  }
+,
+  {
+    "Id": 2
+  , "obj": 3
+  , "gen": 0
+  , "value": 36
+  }
+,
+  {
+    "Id": 3
+  , "obj": 4
+  , "gen": 0
+  , "Count": 1
+  , "Kids": [ 0 ]
+  , "MediaBox": [ 0 , 0 , 612 , 792 ]
+  , "Resources": 5
+  , "Type":  "Pages" 
+  }
+,
+  {
+    "Id": 4
+  , "obj": 5
+  , "gen": 0
+  , "value": ""
+  }
+,
+  {
+    "Id": 5
+  , "obj": 6
+  , "gen": 0
+  , "Font": 4
+  , "ProcSet": [ "PDF" , "Text" ]
+  }
+,
+  {
+    "Id": 6
+  , "obj": 7
+  , "gen": 0
+  , "Lang": "en-US"
+  , "OpenAction": [ 0 , "XYZ" , "null" , "null" , 0 ]
+  , "Pages": 3
+  , "Type":  "Catalog" 
+  }
+,
+  {
+    "Id": 7
+  , "obj": 8
+  , "gen": 0
+  , "CreationDate": "D:20201218162631-05'00'"
+  , "Creator": "/254/255/NULW/NULr/NULi/NULt/NULe/NULr"
+  , "Producer": "/254/255/NULL/NULi/NULb/NULr/NULe/NULO/NULf/NULf/NULi/NULc/NULe/NUL /NUL5/NUL /NUL1"
+  }
+]

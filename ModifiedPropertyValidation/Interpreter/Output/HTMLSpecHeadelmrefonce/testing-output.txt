@@ -1,0 +1,76 @@
+Graph node count: 8
+
+All graph nodes: 
+[ 1 , 2 , 4 , 3 , 5 , 6 , 7 , 8 ]
+
+All source nodes:
+[ 1 ]
+
+All leaf nodes:
+[ 3 , 5 , 6 , 7 , 8 ]
+
+The adjacency list of the graph is:
+1: [ 2 , 4 ]
+2: [ 3 ]
+3: [ ]
+4: [ 5 , 6 , 7 , 8 ]
+5: [ ]
+6: [ ]
+7: [ ]
+8: [ ]
+
+All attribute values: 
+1: 
+  {
+  }
+
+2: 
+  {
+  }
+
+3: 
+  {
+  }
+
+4: 
+  {
+  }
+
+5: 
+  {
+  }
+
+6: 
+  {
+  }
+
+7: 
+  {
+  }
+
+8: 
+  {
+  }
+
+45217418387456: 
+  {
+  }
+
+Node Sets are: 
+{
+  Head: [ 2 ] 
+}
+
+Edge Sets are: 
+{
+  Ref: [ ] 
+}
+
+"forall d1 in Head:
+forall (d2, d3) in Ref:
+forall (d4, d5) in Ref:
+implies(   and( eqn( d3.<"Id"> , d5.<"Id"> ) , inn( d3.<"Id"> , PATH( d1.<"Id"> , T ) ) )   , eqn( d2.<"Id"> , d4.<"Id"> ) )  " holds true for this file.
+
+Time taken to compute graph: 0.002092 s.
+Time to resolve all properties: 0.000324 s.
+

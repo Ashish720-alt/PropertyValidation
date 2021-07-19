@@ -1,0 +1,28 @@
+Graph node count: 1
+
+All graph nodes: 
+[ 52 ]
+
+All source nodes:
+[ 52 ]
+
+All leaf nodes:
+[ 52 ]
+
+The adjacency list of the graph is:
+52: [ ]
+
+{
+  Source: [ 52 ] 
+}
+
+{
+}
+
+"forall d in Source:
+forall d1 in Source:
+not( inn( d.<"Id"> , d1.<"Kids"> ) )" holds true for this file.
+
+Time taken to compute graph: 0.119379 s.
+Time to resolve all properties: 0.000105 s.
+

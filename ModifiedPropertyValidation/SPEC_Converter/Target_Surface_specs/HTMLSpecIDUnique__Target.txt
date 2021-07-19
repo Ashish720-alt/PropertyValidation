@@ -1,0 +1,24 @@
+Tree:
+
+Root is unique d satisfying  d.<"Name"> = "html"  .
+
+forall d in Tree, d0 is Child(d) where  d0.<"Id"> in d.<"Kids">  and  d0.<"Name"> !=  "html" .
+
+
+Attributes:
+
+forall d in Leaves,
+d.<id_def> = make_singleton_array( d.<"id"> ) .
+
+forall d in Tree,
+d.<id_def> =  append_all_children_attributes(d.<"Id"> , <id_def> )  union  make_singleton_array(d.<"id"> ) .
+
+Specification Conditions:
+
+forall d in Root, is_set( d.<id_def> ).
+
+
+
+
+
+

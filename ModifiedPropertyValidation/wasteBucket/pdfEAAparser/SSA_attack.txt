@@ -1,0 +1,23 @@
+Tree:
+
+Root is unique d satisfying  d.<"Id"> =  d1.<"Pages">  
+where unique d1 satisfies  d1.<"Type"> = "Catalog"  .
+
+forall d in Tree, d0 is Child(d) where d0.<"Id"> in d.<"Kids">  and  d0.<"Type"> in [ "Page", "Pages" ]   .
+
+
+Graph Property:
+
+TransformParams_dict is d satisfying d.<"Type"> = "TransformParams" .  
+
+Sig_dict is d satisfying d.<"Type"> = "Sig" . 
+
+Sig_Ref_dict is d satisfying d.<"Type"> = "SigRef" . 
+
+Specification Conditions:
+
+forall d1 in Sig_dict,
+forall d2 in Sig_Ref_dict,
+forall d3 in TransformParams_dict,
+(d2 in d1.<"Reference"> and d2.<"TransformMethod"> = "DocMDP" and d3 in d2.<"TransformParams"> and d3.<"P"> = 1) implies  ( d1.<"Changes"> = [0 , 0 , 0] ).
+

@@ -1,0 +1,25 @@
+T:
+
+Root is unique d satisfying ins ( d.<"Name"> , [ "svg" ] )..
+
+forall d in T: d0 is Child(d) where and( inn(d0.<"Id">, d.<"Kids"> ) , not(ins (d0.<"Name"> , [ "svg" ] ) )   )..
+
+-
+GP:
+
+use is d satisfying eqs(d.<"Name"> , "use" )..
+
+symbol is d satisfying eqs(d.<"Name"> , "symbol" )..
+
+Ref_use is (d1, d2) satisfying eqs(d1.<"href">, REFSTRING(d2.<"Id">)  )
+where d1 in [ use ]
+where d2 in [ use , symbol ] ..
+
+% 
+
+forall d3 in use:
+forall d4 in PATH(d3.<"Id">, Ref_use):
+not(or( ancestor(d3.<"Id">,d4.<"Id">) , eqn(d3.<"Id">,d4.<"Id">) )) ..
+
+
+ -       

@@ -1,0 +1,638 @@
+Keys used in spec: [ "Id" , "Kids" , "Name" ]
+
+Graph node count: 104
+
+All graph dictionaries:
+{
+  "Id": 1
+  "Kids": [ 2, 101 ]
+  "Name": "svg"
+}
+{
+  "Id": 2
+  "Kids": [ 3 ]
+  "Name": "defs"
+}
+{
+  "Id": 3
+  "Kids": [ 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100 ]
+  "Name": "font"
+}
+{
+  "Id": 4
+  "Kids": [ ]
+  "Name": "font-face"
+}
+{
+  "Id": 5
+  "Kids": [ ]
+  "Name": "missing-glyph"
+}
+{
+  "Id": 6
+  "Kids": [ ]
+  "Name": "glyph"
+}
+{
+  "Id": 7
+  "Kids": [ ]
+  "Name": "glyph"
+}
+{
+  "Id": 8
+  "Kids": [ ]
+  "Name": "glyph"
+}
+{
+  "Id": 9
+  "Kids": [ ]
+  "Name": "glyph"
+}
+{
+  "Id": 10
+  "Kids": [ ]
+  "Name": "glyph"
+}
+{
+  "Id": 11
+  "Kids": [ ]
+  "Name": "glyph"
+}
+{
+  "Id": 12
+  "Kids": [ ]
+  "Name": "glyph"
+}
+{
+  "Id": 13
+  "Kids": [ ]
+  "Name": "glyph"
+}
+{
+  "Id": 14
+  "Kids": [ ]
+  "Name": "glyph"
+}
+{
+  "Id": 15
+  "Kids": [ ]
+  "Name": "glyph"
+}
+{
+  "Id": 16
+  "Kids": [ ]
+  "Name": "glyph"
+}
+{
+  "Id": 17
+  "Kids": [ ]
+  "Name": "glyph"
+}
+{
+  "Id": 18
+  "Kids": [ ]
+  "Name": "glyph"
+}
+{
+  "Id": 19
+  "Kids": [ ]
+  "Name": "glyph"
+}
+{
+  "Id": 20
+  "Kids": [ ]
+  "Name": "glyph"
+}
+{
+  "Id": 21
+  "Kids": [ ]
+  "Name": "glyph"
+}
+{
+  "Id": 22
+  "Kids": [ ]
+  "Name": "glyph"
+}
+{
+  "Id": 23
+  "Kids": [ ]
+  "Name": "glyph"
+}
+{
+  "Id": 24
+  "Kids": [ ]
+  "Name": "glyph"
+}
+{
+  "Id": 25
+  "Kids": [ ]
+  "Name": "glyph"
+}
+{
+  "Id": 26
+  "Kids": [ ]
+  "Name": "glyph"
+}
+{
+  "Id": 27
+  "Kids": [ ]
+  "Name": "glyph"
+}
+{
+  "Id": 28
+  "Kids": [ ]
+  "Name": "glyph"
+}
+{
+  "Id": 29
+  "Kids": [ ]
+  "Name": "glyph"
+}
+{
+  "Id": 30
+  "Kids": [ ]
+  "Name": "glyph"
+}
+{
+  "Id": 31
+  "Kids": [ ]
+  "Name": "glyph"
+}
+{
+  "Id": 32
+  "Kids": [ ]
+  "Name": "glyph"
+}
+{
+  "Id": 33
+  "Kids": [ ]
+  "Name": "glyph"
+}
+{
+  "Id": 34
+  "Kids": [ ]
+  "Name": "glyph"
+}
+{
+  "Id": 35
+  "Kids": [ ]
+  "Name": "glyph"
+}
+{
+  "Id": 36
+  "Kids": [ ]
+  "Name": "glyph"
+}
+{
+  "Id": 37
+  "Kids": [ ]
+  "Name": "glyph"
+}
+{
+  "Id": 38
+  "Kids": [ ]
+  "Name": "glyph"
+}
+{
+  "Id": 39
+  "Kids": [ ]
+  "Name": "glyph"
+}
+{
+  "Id": 40
+  "Kids": [ ]
+  "Name": "glyph"
+}
+{
+  "Id": 41
+  "Kids": [ ]
+  "Name": "glyph"
+}
+{
+  "Id": 42
+  "Kids": [ ]
+  "Name": "glyph"
+}
+{
+  "Id": 43
+  "Kids": [ ]
+  "Name": "glyph"
+}
+{
+  "Id": 44
+  "Kids": [ ]
+  "Name": "glyph"
+}
+{
+  "Id": 45
+  "Kids": [ ]
+  "Name": "glyph"
+}
+{
+  "Id": 46
+  "Kids": [ ]
+  "Name": "glyph"
+}
+{
+  "Id": 47
+  "Kids": [ ]
+  "Name": "glyph"
+}
+{
+  "Id": 48
+  "Kids": [ ]
+  "Name": "glyph"
+}
+{
+  "Id": 49
+  "Kids": [ ]
+  "Name": "glyph"
+}
+{
+  "Id": 50
+  "Kids": [ ]
+  "Name": "glyph"
+}
+{
+  "Id": 51
+  "Kids": [ ]
+  "Name": "glyph"
+}
+{
+  "Id": 52
+  "Kids": [ ]
+  "Name": "glyph"
+}
+{
+  "Id": 53
+  "Kids": [ ]
+  "Name": "glyph"
+}
+{
+  "Id": 54
+  "Kids": [ ]
+  "Name": "glyph"
+}
+{
+  "Id": 55
+  "Kids": [ ]
+  "Name": "glyph"
+}
+{
+  "Id": 56
+  "Kids": [ ]
+  "Name": "glyph"
+}
+{
+  "Id": 57
+  "Kids": [ ]
+  "Name": "glyph"
+}
+{
+  "Id": 58
+  "Kids": [ ]
+  "Name": "glyph"
+}
+{
+  "Id": 59
+  "Kids": [ ]
+  "Name": "glyph"
+}
+{
+  "Id": 60
+  "Kids": [ ]
+  "Name": "glyph"
+}
+{
+  "Id": 61
+  "Kids": [ ]
+  "Name": "glyph"
+}
+{
+  "Id": 62
+  "Kids": [ ]
+  "Name": "glyph"
+}
+{
+  "Id": 63
+  "Kids": [ ]
+  "Name": "glyph"
+}
+{
+  "Id": 64
+  "Kids": [ ]
+  "Name": "glyph"
+}
+{
+  "Id": 65
+  "Kids": [ ]
+  "Name": "glyph"
+}
+{
+  "Id": 66
+  "Kids": [ ]
+  "Name": "glyph"
+}
+{
+  "Id": 67
+  "Kids": [ ]
+  "Name": "glyph"
+}
+{
+  "Id": 68
+  "Kids": [ ]
+  "Name": "glyph"
+}
+{
+  "Id": 69
+  "Kids": [ ]
+  "Name": "glyph"
+}
+{
+  "Id": 70
+  "Kids": [ ]
+  "Name": "glyph"
+}
+{
+  "Id": 71
+  "Kids": [ ]
+  "Name": "glyph"
+}
+{
+  "Id": 72
+  "Kids": [ ]
+  "Name": "glyph"
+}
+{
+  "Id": 73
+  "Kids": [ ]
+  "Name": "glyph"
+}
+{
+  "Id": 74
+  "Kids": [ ]
+  "Name": "glyph"
+}
+{
+  "Id": 75
+  "Kids": [ ]
+  "Name": "glyph"
+}
+{
+  "Id": 76
+  "Kids": [ ]
+  "Name": "glyph"
+}
+{
+  "Id": 77
+  "Kids": [ ]
+  "Name": "glyph"
+}
+{
+  "Id": 78
+  "Kids": [ ]
+  "Name": "glyph"
+}
+{
+  "Id": 79
+  "Kids": [ ]
+  "Name": "glyph"
+}
+{
+  "Id": 80
+  "Kids": [ ]
+  "Name": "glyph"
+}
+{
+  "Id": 81
+  "Kids": [ ]
+  "Name": "glyph"
+}
+{
+  "Id": 82
+  "Kids": [ ]
+  "Name": "glyph"
+}
+{
+  "Id": 83
+  "Kids": [ ]
+  "Name": "glyph"
+}
+{
+  "Id": 84
+  "Kids": [ ]
+  "Name": "glyph"
+}
+{
+  "Id": 85
+  "Kids": [ ]
+  "Name": "glyph"
+}
+{
+  "Id": 86
+  "Kids": [ ]
+  "Name": "glyph"
+}
+{
+  "Id": 87
+  "Kids": [ ]
+  "Name": "glyph"
+}
+{
+  "Id": 88
+  "Kids": [ ]
+  "Name": "glyph"
+}
+{
+  "Id": 89
+  "Kids": [ ]
+  "Name": "glyph"
+}
+{
+  "Id": 90
+  "Kids": [ ]
+  "Name": "glyph"
+}
+{
+  "Id": 91
+  "Kids": [ ]
+  "Name": "glyph"
+}
+{
+  "Id": 92
+  "Kids": [ ]
+  "Name": "glyph"
+}
+{
+  "Id": 93
+  "Kids": [ ]
+  "Name": "glyph"
+}
+{
+  "Id": 94
+  "Kids": [ ]
+  "Name": "glyph"
+}
+{
+  "Id": 95
+  "Kids": [ ]
+  "Name": "glyph"
+}
+{
+  "Id": 96
+  "Kids": [ ]
+  "Name": "glyph"
+}
+{
+  "Id": 97
+  "Kids": [ ]
+  "Name": "glyph"
+}
+{
+  "Id": 98
+  "Kids": [ ]
+  "Name": "glyph"
+}
+{
+  "Id": 99
+  "Kids": [ ]
+  "Name": "glyph"
+}
+{
+  "Id": 100
+  "Kids": [ ]
+  "Name": "glyph"
+}
+{
+  "Id": 101
+  "Kids": [ 102, 103, 104 ]
+  "Name": "g"
+}
+{
+  "Id": 102
+  "Kids": [ ]
+  "Name": "text"
+}
+{
+  "Id": 103
+  "Kids": [ ]
+  "Name": "text"
+}
+{
+  "Id": 104
+  "Kids": [ ]
+  "Name": "text"
+}
+
+All source dictionaries:
+{
+  "Id": 1
+  "Kids": [ 2, 101 ]
+  "Name": "svg"
+}
+
+The adjacency list of the graph is:
+1: [ 2 , 101 ]
+2: [ 3 ]
+3: [ 4 , 5 , 6 , 7 , 8 , 9 , 10 , 11 , 12 , 13 , 14 , 15 , 16 , 17 , 18 , 19 , 20 , 21 , 22 , 23 , 24 , 25 , 26 , 27 , 28 , 29 , 30 , 31 , 32 , 33 , 34 , 35 , 36 , 37 , 38 , 39 , 40 , 41 , 42 , 43 , 44 , 45 , 46 , 47 , 48 , 49 , 50 , 51 , 52 , 53 , 54 , 55 , 56 , 57 , 58 , 59 , 60 , 61 , 62 , 63 , 64 , 65 , 66 , 67 , 68 , 69 , 70 , 71 , 72 , 73 , 74 , 75 , 76 , 77 , 78 , 79 , 80 , 81 , 82 , 83 , 84 , 85 , 86 , 87 , 88 , 89 , 90 , 91 , 92 , 93 , 94 , 95 , 96 , 97 , 98 , 99 , 100 ]
+4: [ ]
+5: [ ]
+6: [ ]
+7: [ ]
+8: [ ]
+9: [ ]
+10: [ ]
+11: [ ]
+12: [ ]
+13: [ ]
+14: [ ]
+15: [ ]
+16: [ ]
+17: [ ]
+18: [ ]
+19: [ ]
+20: [ ]
+21: [ ]
+22: [ ]
+23: [ ]
+24: [ ]
+25: [ ]
+26: [ ]
+27: [ ]
+28: [ ]
+29: [ ]
+30: [ ]
+31: [ ]
+32: [ ]
+33: [ ]
+34: [ ]
+35: [ ]
+36: [ ]
+37: [ ]
+38: [ ]
+39: [ ]
+40: [ ]
+41: [ ]
+42: [ ]
+43: [ ]
+44: [ ]
+45: [ ]
+46: [ ]
+47: [ ]
+48: [ ]
+49: [ ]
+50: [ ]
+51: [ ]
+52: [ ]
+53: [ ]
+54: [ ]
+55: [ ]
+56: [ ]
+57: [ ]
+58: [ ]
+59: [ ]
+60: [ ]
+61: [ ]
+62: [ ]
+63: [ ]
+64: [ ]
+65: [ ]
+66: [ ]
+67: [ ]
+68: [ ]
+69: [ ]
+70: [ ]
+71: [ ]
+72: [ ]
+73: [ ]
+74: [ ]
+75: [ ]
+76: [ ]
+77: [ ]
+78: [ ]
+79: [ ]
+80: [ ]
+81: [ ]
+82: [ ]
+83: [ ]
+84: [ ]
+85: [ ]
+86: [ ]
+87: [ ]
+88: [ ]
+89: [ ]
+90: [ ]
+91: [ ]
+92: [ ]
+93: [ ]
+94: [ ]
+95: [ ]
+96: [ ]
+97: [ ]
+98: [ ]
+99: [ ]
+100: [ ]
+101: [ 102 , 103 , 104 ]
+102: [ ]
+103: [ ]
+104: [ ]

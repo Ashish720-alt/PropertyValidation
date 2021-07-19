@@ -1,0 +1,386 @@
+Keys used in spec: [ "Id" , "Kids" , "Name" ]
+
+Graph node count: 62
+
+All graph dictionaries:
+{
+  "Id": 1
+  "Kids": [ 2, 3, 4, 31 ]
+  "Name": "svg"
+}
+{
+  "Id": 2
+  "Kids": [ ]
+  "Name": "title"
+}
+{
+  "Id": 3
+  "Kids": [ ]
+  "Name": "script"
+}
+{
+  "Id": 4
+  "Kids": [ 5, 7, 9, 11 ]
+  "Name": "defs"
+}
+{
+  "Id": 5
+  "Kids": [ 6 ]
+  "Name": "symbol"
+}
+{
+  "Id": 6
+  "Kids": [ ]
+  "Name": "path"
+}
+{
+  "Id": 7
+  "Kids": [ 8 ]
+  "Name": "symbol"
+}
+{
+  "Id": 8
+  "Kids": [ ]
+  "Name": "circle"
+}
+{
+  "Id": 9
+  "Kids": [ 10 ]
+  "Name": "symbol"
+}
+{
+  "Id": 10
+  "Kids": [ ]
+  "Name": "rect"
+}
+{
+  "Id": 11
+  "Kids": [ 12 ]
+  "Name": "symbol"
+}
+{
+  "Id": 12
+  "Kids": [ 13, 19, 26 ]
+  "Name": "g"
+}
+{
+  "Id": 13
+  "Kids": [ 14, 15, 16, 17, 18 ]
+  "Name": "g"
+}
+{
+  "Id": 14
+  "Kids": [ ]
+  "Name": "path"
+}
+{
+  "Id": 15
+  "Kids": [ ]
+  "Name": "path"
+}
+{
+  "Id": 16
+  "Kids": [ ]
+  "Name": "path"
+}
+{
+  "Id": 17
+  "Kids": [ ]
+  "Name": "path"
+}
+{
+  "Id": 18
+  "Kids": [ ]
+  "Name": "path"
+}
+{
+  "Id": 19
+  "Kids": [ 20, 21, 22, 23, 24, 25 ]
+  "Name": "g"
+}
+{
+  "Id": 20
+  "Kids": [ ]
+  "Name": "path"
+}
+{
+  "Id": 21
+  "Kids": [ ]
+  "Name": "path"
+}
+{
+  "Id": 22
+  "Kids": [ ]
+  "Name": "path"
+}
+{
+  "Id": 23
+  "Kids": [ ]
+  "Name": "path"
+}
+{
+  "Id": 24
+  "Kids": [ ]
+  "Name": "path"
+}
+{
+  "Id": 25
+  "Kids": [ ]
+  "Name": "path"
+}
+{
+  "Id": 26
+  "Kids": [ 27, 28, 29, 30 ]
+  "Name": "g"
+}
+{
+  "Id": 27
+  "Kids": [ ]
+  "Name": "path"
+}
+{
+  "Id": 28
+  "Kids": [ ]
+  "Name": "path"
+}
+{
+  "Id": 29
+  "Kids": [ ]
+  "Name": "path"
+}
+{
+  "Id": 30
+  "Kids": [ ]
+  "Name": "path"
+}
+{
+  "Id": 31
+  "Kids": [ 32, 35, 48 ]
+  "Name": "g"
+}
+{
+  "Id": 32
+  "Kids": [ 33, 34 ]
+  "Name": "g"
+}
+{
+  "Id": 33
+  "Kids": [ ]
+  "Name": "rect"
+}
+{
+  "Id": 34
+  "Kids": [ ]
+  "Name": "path"
+}
+{
+  "Id": 35
+  "Kids": [ 36, 42, 43, 44 ]
+  "Name": "g"
+}
+{
+  "Id": 36
+  "Kids": [ 37, 38, 39, 40, 41 ]
+  "Name": "g"
+}
+{
+  "Id": 37
+  "Kids": [ ]
+  "Name": "text"
+}
+{
+  "Id": 38
+  "Kids": [ ]
+  "Name": "text"
+}
+{
+  "Id": 39
+  "Kids": [ ]
+  "Name": "text"
+}
+{
+  "Id": 40
+  "Kids": [ ]
+  "Name": "text"
+}
+{
+  "Id": 41
+  "Kids": [ ]
+  "Name": "text"
+}
+{
+  "Id": 42
+  "Kids": [ ]
+  "Name": "text"
+}
+{
+  "Id": 43
+  "Kids": [ ]
+  "Name": "text"
+}
+{
+  "Id": 44
+  "Kids": [ 45, 46, 47 ]
+  "Name": "g"
+}
+{
+  "Id": 45
+  "Kids": [ ]
+  "Name": "text"
+}
+{
+  "Id": 46
+  "Kids": [ ]
+  "Name": "rect"
+}
+{
+  "Id": 47
+  "Kids": [ ]
+  "Name": "path"
+}
+{
+  "Id": 48
+  "Kids": [ 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62 ]
+  "Name": "g"
+}
+{
+  "Id": 49
+  "Kids": [ ]
+  "Name": "rect"
+}
+{
+  "Id": 50
+  "Kids": [ ]
+  "Name": "text"
+}
+{
+  "Id": 51
+  "Kids": [ ]
+  "Name": "text"
+}
+{
+  "Id": 52
+  "Kids": [ ]
+  "Name": "text"
+}
+{
+  "Id": 53
+  "Kids": [ ]
+  "Name": "text"
+}
+{
+  "Id": 54
+  "Kids": [ ]
+  "Name": "text"
+}
+{
+  "Id": 55
+  "Kids": [ ]
+  "Name": "text"
+}
+{
+  "Id": 56
+  "Kids": [ ]
+  "Name": "text"
+}
+{
+  "Id": 57
+  "Kids": [ ]
+  "Name": "text"
+}
+{
+  "Id": 58
+  "Kids": [ ]
+  "Name": "text"
+}
+{
+  "Id": 59
+  "Kids": [ ]
+  "Name": "text"
+}
+{
+  "Id": 60
+  "Kids": [ ]
+  "Name": "text"
+}
+{
+  "Id": 61
+  "Kids": [ ]
+  "Name": "text"
+}
+{
+  "Id": 62
+  "Kids": [ ]
+  "Name": "text"
+}
+
+All source dictionaries:
+{
+  "Id": 1
+  "Kids": [ 2, 3, 4, 31 ]
+  "Name": "svg"
+}
+
+The adjacency list of the graph is:
+1: [ 2 , 3 , 4 , 31 ]
+2: [ ]
+3: [ ]
+4: [ 5 , 7 , 9 , 11 ]
+5: [ 6 ]
+6: [ ]
+7: [ 8 ]
+8: [ ]
+9: [ 10 ]
+10: [ ]
+11: [ 12 ]
+12: [ 13 , 19 , 26 ]
+13: [ 14 , 15 , 16 , 17 , 18 ]
+14: [ ]
+15: [ ]
+16: [ ]
+17: [ ]
+18: [ ]
+19: [ 20 , 21 , 22 , 23 , 24 , 25 ]
+20: [ ]
+21: [ ]
+22: [ ]
+23: [ ]
+24: [ ]
+25: [ ]
+26: [ 27 , 28 , 29 , 30 ]
+27: [ ]
+28: [ ]
+29: [ ]
+30: [ ]
+31: [ 32 , 35 , 48 ]
+32: [ 33 , 34 ]
+33: [ ]
+34: [ ]
+35: [ 36 , 42 , 43 , 44 ]
+36: [ 37 , 38 , 39 , 40 , 41 ]
+37: [ ]
+38: [ ]
+39: [ ]
+40: [ ]
+41: [ ]
+42: [ ]
+43: [ ]
+44: [ 45 , 46 , 47 ]
+45: [ ]
+46: [ ]
+47: [ ]
+48: [ 49 , 50 , 51 , 52 , 53 , 54 , 55 , 56 , 57 , 58 , 59 , 60 , 61 , 62 ]
+49: [ ]
+50: [ ]
+51: [ ]
+52: [ ]
+53: [ ]
+54: [ ]
+55: [ ]
+56: [ ]
+57: [ ]
+58: [ ]
+59: [ ]
+60: [ ]
+61: [ ]
+62: [ ]

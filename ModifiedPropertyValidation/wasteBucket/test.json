@@ -1,0 +1,13 @@
+[ { "obj": 1
+  , "gen": 0
+  , "value":
+      { "dict":
+        { "Count": 1
+        , "Kids":
+            [ { "ref": { "obj": 2, "gen": 0 } }
+            ]
+        , "Type": { "name": "Pages" }
+        }
+      }
+  }
+]
